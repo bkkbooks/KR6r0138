@@ -1,0 +1,8272 @@
+canonical_identifier: bkk:krp/KR6r0138/v1
+canonical_location: https://kanripo.org/bkk/KR6r0138/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 廣弘明集
+  identifiers:
+    alt_id:
+    - T52n2103
+  tags:
+    kr-categories: KR6r
+    tls-internal:
+    - swl
+    - tr-en
+  source:
+    repository: tls-texts
+    path: data/tls/KR6r0138.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0138_000.yaml, hash: 'sha256:c844a1370264c557e941682f47c75bc6764d784817ab48f8bf90ddda0eca2b08'}
+  - {seq: 2, filename: KR6r0138_002.yaml, hash: 'sha256:a3789cf85148466a607dac1d11c3b69d040a8d5ee1b32bd7d5dbbd7ea485ed5e'}
+  - {seq: 3, filename: KR6r0138_003.yaml, hash: 'sha256:8decdbb4f6aecee6be1adfe955e191352170b88bc96c1068e3c92aad8ae3e267'}
+  - {seq: 4, filename: KR6r0138_004.yaml, hash: 'sha256:1db26bf3c7654fce234e9dc44c319c0d24b53cc42a547c95ef94d059ce8fd338'}
+  - {seq: 6, filename: KR6r0138_006.yaml, hash: 'sha256:b5f295c6e038aaf4bf5fce4967db3f476905e0dbde7a0f03ce496aac4f0d1fb8'}
+  - {seq: 7, filename: KR6r0138_007.yaml, hash: 'sha256:9ea1d396172b36e07ca98c1593a59eea475187888904153af816e2d5322d03b2'}
+  - {seq: 8, filename: KR6r0138_008.yaml, hash: 'sha256:3e468d0fc235c71883056bc98db9551110f030ef1613d1de1a0e64b0ff6bb965'}
+  - {seq: 9, filename: KR6r0138_009.yaml, hash: 'sha256:ccda377839f38084ed0dca7dff80246d5dd4e9a38381cd7d689f5df948eac532'}
+  - {seq: 10, filename: KR6r0138_010.yaml, hash: 'sha256:573f04c8f6b5cd17bba654d03d07343682bfaa710be4715ba74d9c3bfa3d8952'}
+  - {seq: 11, filename: KR6r0138_011.yaml, hash: 'sha256:e3507968174a274d58560fa3a07e62ab43204297f5d8f610fbc0454cae858043'}
+  - {seq: 12, filename: KR6r0138_012.yaml, hash: 'sha256:d13670ba989814754ccbb2e7c177eac4a4a42e925d133d33effbbbeec3965dd8'}
+  - {seq: 13, filename: KR6r0138_013.yaml, hash: 'sha256:e016788a3c2f7b564d9d881cc28a2ef38bdc48b05b058530eee8c9070148974f'}
+  - {seq: 14, filename: KR6r0138_014.yaml, hash: 'sha256:7a41553822ddf54d24dd6bd153674a04b3682aa7437b74e40aa4cab3a12f7946'}
+  - {seq: 16, filename: KR6r0138_016.yaml, hash: 'sha256:058ae8e7fdeabd94e388fb273d8ad68447c6e53c05891180a43eec95a27189f4'}
+  - {seq: 17, filename: KR6r0138_017.yaml, hash: 'sha256:0b068d53280af82c013df6c131dd77d54f40dc62bb716e31aa2fb59b704c00ef'}
+  - {seq: 19, filename: KR6r0138_019.yaml, hash: 'sha256:477378728fc85af7ef5f6649f27c9f99b747a48abc06bdff7c1a8205f110a959'}
+  - {seq: 20, filename: KR6r0138_020.yaml, hash: 'sha256:eb872a2265c1eca1d01075894f3d5dcfd2ae51d9140fb4b69c5f7d04f5d66669'}
+  - {seq: 21, filename: KR6r0138_021.yaml, hash: 'sha256:3cc9c0c835696046d17e2dcae3c39b6822e263097b6964effe71e1154061f1a6'}
+  - {seq: 22, filename: KR6r0138_022.yaml, hash: 'sha256:45d29d1ace9ac3ef62ec87d3e6d66f4098a48c5e49cb249d42650d0efd16cfa5'}
+  - {seq: 24, filename: KR6r0138_024.yaml, hash: 'sha256:d9da8ee7f5c7066500fd047375d05fc9f691e2ea0bff7f8cfdec21fe6439c7e0'}
+  - {seq: 25, filename: KR6r0138_025.yaml, hash: 'sha256:b38acaf446d3ccb47475c5d4906e93b788281e74fcfa4d4564b45af6c73cc9b5'}
+  - {seq: 30, filename: KR6r0138_030.yaml, hash: 'sha256:c4cc7e20e4675be249f72331184460b4ec2c4f432dfedcd8d1afad9487b3d6bb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0138_000.markers.yaml, hash: 'sha256:07daf080cdeb8aa839863699bcfe26a4544b35b5a436db42a4ad6ce80f4fe0c7'}
+  - {seq: 2, role: markers, filename: assets/KR6r0138_002.markers.yaml, hash: 'sha256:e0ef0d071574b60daf2ab5d66deeb1b6ea4134530e7ec7db74666f1363d765cb'}
+  - {seq: 3, role: markers, filename: assets/KR6r0138_003.markers.yaml, hash: 'sha256:9e2904df5af42200c2204e84dd02eaf2a2600384ec6759d808611f4d05bd1071'}
+  - {seq: 4, role: markers, filename: assets/KR6r0138_004.markers.yaml, hash: 'sha256:4d44b27ccae7240f0e260181add5943c194a7e6ec2b77a7775059bdaa1d09a32'}
+  - {seq: 6, role: markers, filename: assets/KR6r0138_006.markers.yaml, hash: 'sha256:e88816900cd5ef5f35bc4586464587e5643fe0e4b40a24b0257eb3b0d83a238b'}
+  - {seq: 7, role: markers, filename: assets/KR6r0138_007.markers.yaml, hash: 'sha256:16689218fe76a9b320d446c1f742d2bb3a86ccd53784619e4c367456ba772703'}
+  - {seq: 8, role: markers, filename: assets/KR6r0138_008.markers.yaml, hash: 'sha256:4234125e3ef0000ab4d4258d9d349a646bc2341192aa11fcc124fd912ee0c7ee'}
+  - {seq: 9, role: markers, filename: assets/KR6r0138_009.markers.yaml, hash: 'sha256:2a9fb061570f9580d3d59ff1845fa9414be43c3945693d42cc26e30911acb26b'}
+  - {seq: 10, role: markers, filename: assets/KR6r0138_010.markers.yaml, hash: 'sha256:60c46136d1257fcc002f21d3f8a2634776b5eadeb0e745ada4ca6d0a24821779'}
+  - {seq: 11, role: markers, filename: assets/KR6r0138_011.markers.yaml, hash: 'sha256:962fccb2b51fc266ece6e133b80b2a24d4896aeffee9388526bd692e072df099'}
+  - {seq: 12, role: markers, filename: assets/KR6r0138_012.markers.yaml, hash: 'sha256:8ee2c8ed66f8cee2787de30cca5a86f6b95bef2f20ea0d18f0061b7b357df4ea'}
+  - {seq: 13, role: markers, filename: assets/KR6r0138_013.markers.yaml, hash: 'sha256:03699cbc85e7f54665f15bb2b929f9fc341efa5b5f2f0d95543b4ef05453ffec'}
+  - {seq: 14, role: markers, filename: assets/KR6r0138_014.markers.yaml, hash: 'sha256:f221bf706d4dd50dd7a496a8062e861ee7de4bcc92402413a9b6ac728a35d6f6'}
+  - {seq: 16, role: markers, filename: assets/KR6r0138_016.markers.yaml, hash: 'sha256:db44cbe98aa3f3646703a5fdd302d2a6650238ea219201e0b09950412f1c0860'}
+  - {seq: 17, role: markers, filename: assets/KR6r0138_017.markers.yaml, hash: 'sha256:b3cb685cd6786297d10b18003699019c66075088fc248f9ab2403e585ce73dff'}
+  - {seq: 19, role: markers, filename: assets/KR6r0138_019.markers.yaml, hash: 'sha256:7f116b49bf7ec1b3e730b927367478c793f0ef487d5a79bbdb8f2dcb78a8e636'}
+  - {seq: 20, role: markers, filename: assets/KR6r0138_020.markers.yaml, hash: 'sha256:a80fec90ca96e54fe5496a878eea4b52011914de963b57007137c9cb9a45f2ff'}
+  - {seq: 21, role: markers, filename: assets/KR6r0138_021.markers.yaml, hash: 'sha256:d3dc67f5b7d808cb55d9d1801d4d72855172bde04665dcc4e044e00a5ce4df3b'}
+  - {seq: 22, role: markers, filename: assets/KR6r0138_022.markers.yaml, hash: 'sha256:efb22acdeb7197eff5a411362b0bff120785d3089f026fadf9738d957fb6c55f'}
+  - {seq: 24, role: markers, filename: assets/KR6r0138_024.markers.yaml, hash: 'sha256:fd72b5c2f746b39ab76b74a01444166b0eb4094658f2a2314c85e4e83d77b68c'}
+  - {seq: 25, role: markers, filename: assets/KR6r0138_025.markers.yaml, hash: 'sha256:c06832c0771bc22c5c68a69fedd7fa342e87f14ba9cfc52fa9abfb970ab354ff'}
+  - {seq: 30, role: markers, filename: assets/KR6r0138_030.markers.yaml, hash: 'sha256:e6fe0c58a178a893b0d3754fb342770c55d4456805b1c57fb44779e4bc2559df'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0138_CBETA_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 釋道宣序一
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0138_CBETA_000-mulu-2
+    span:
+    - front
+    - 830
+    - 830
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0138_CBETA_000-mulu-3
+    span:
+    - front
+    - 1458
+    - 1458
+  label: 歸正篇目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0138_CBETA_000-mulu-4
+    span:
+    - front
+    - 1467
+    - 1467
+  label: 1 歸正篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0138_CBETA_000-mulu-5
+    span:
+    - front
+    - 1467
+    - 1467
+  label: 之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0138_CBETA_000-mulu-6
+    span:
+    - front
+    - 1478
+    - 1478
+  label: 1 商太宰問孔子聖人(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0138_CBETA_000-mulu-7
+    span:
+    - front
+    - 1662
+    - 1662
+  label: 2 子書中佛為老師(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0138_CBETA_000-mulu-8
+    span:
+    - front
+    - 1849
+    - 1849
+  label: 3 漢顯宗開佛化法本傳(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0138_CBETA_000-mulu-9
+    span:
+    - front
+    - 3026
+    - 3026
+  label: 4 後漢書郊祀志(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0138_CBETA_000-mulu-10
+    span:
+    - front
+    - 3312
+    - 3312
+  label: 5 吳主孫權論敘佛道三宗(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0138_CBETA_000-mulu-11
+    span:
+    - front
+    - 3862
+    - 3862
+  label: 6 宋文帝集朝宰論佛教(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0138_CBETA_000-mulu-12
+    span:
+    - front
+    - 4484
+    - 4484
+  label: 7 元魏孝明召佛道門人論前後(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0138_CBETA_002-juan-start
+    span:
+    - body
+    - 0
+    - 7830
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0138_CBETA_002-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0138_CBETA_002-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 8 魏書釋老志(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0138_CBETA_002-mulu-3
+    span:
+    - body
+    - 7637
+    - 7637
+  label: 9 齊書述佛志(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0138_CBETA_003-juan-start
+    span:
+    - body
+    - 0
+    - 5013
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0138_CBETA_003-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0138_CBETA_003-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 10 遂古篇(江淹)(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0138_CBETA_003-mulu-3
+    span:
+    - body
+    - 907
+    - 907
+  label: 11 家訓歸心篇(顏之推)(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0138_CBETA_003-mulu-4
+    span:
+    - body
+    - 2643
+    - 2643
+  label: 12 七錄序(阮孝籍)(三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0138_CBETA_003-mulu-5
+    span:
+    - body
+    - 4436
+    - 4436
+  label: 古今書最
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0138_CBETA_003-mulu-6
+    span:
+    - body
+    - 4467
+    - 4467
+  label: 阮孝緒小傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0138_CBETA_004-juan-start
+    span:
+    - body
+    - 0
+    - 15533
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0138_CBETA_004-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0138_CBETA_004-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 13 捨事李老道法詔(梁武帝)(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0138_CBETA_004-mulu-3
+    span:
+    - body
+    - 1188
+    - 1188
+  label: 14 廢李老道法詔(齊文宣帝)(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0138_CBETA_004-mulu-4
+    span:
+    - body
+    - 2287
+    - 2287
+  label: 15 通極論(彥琮)(四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0138_CBETA_004-mulu-5
+    span:
+    - body
+    - 8394
+    - 8394
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0138_CBETA_004-mulu-6
+    span:
+    - body
+    - 9551
+    - 9551
+  label: 辯惑篇目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0138_CBETA_004-mulu-7
+    span:
+    - body
+    - 9551
+    - 9551
+  label: 2 辯惑篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0138_CBETA_004-mulu-8
+    span:
+    - body
+    - 9551
+    - 9551
+  label: 之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0138_CBETA_004-mulu-9
+    span:
+    - body
+    - 9562
+    - 9562
+  label: 1 辯道論(曹植)(五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0138_CBETA_004-mulu-10
+    span:
+    - body
+    - 10398
+    - 10398
+  label: 2 聖賢同軌老聃非大賢論(孫盛)(五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0138_CBETA_004-mulu-11
+    span:
+    - body
+    - 11345
+    - 11345
+  label: 3 老子疑問反訊(孫盛)(五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0138_CBETA_004-mulu-12
+    span:
+    - body
+    - 13193
+    - 13193
+  label: 4 均聖論(沈約)(五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0138_CBETA_004-mulu-13
+    span:
+    - body
+    - 13928
+    - 13928
+  label: 華陽先生難鎮軍均聖論
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0138_CBETA_006-juan-start
+    span:
+    - body
+    - 0
+    - 7399
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0138_CBETA_006-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0138_CBETA_006-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 5 列代王臣滯惑解(六-七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0138_CBETA_006-mulu-3
+    span:
+    - body
+    - 18
+    - 18
+  label: 上
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0138_CBETA_006-mulu-4
+    span:
+    - body
+    - 1810
+    - 1810
+  label: 1 （後魏世祖）(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0138_CBETA_006-mulu-5
+    span:
+    - body
+    - 2936
+    - 2936
+  label: 2 （周武帝）(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0138_CBETA_006-mulu-6
+    span:
+    - body
+    - 3519
+    - 3519
+  label: 3 （宋世祖）(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0138_CBETA_006-mulu-7
+    span:
+    - body
+    - 3856
+    - 3856
+  label: 4 （唐高祖）(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0138_CBETA_006-mulu-8
+    span:
+    - body
+    - 4047
+    - 4047
+  label: 5 （後趙中書太原王度）(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0138_CBETA_006-mulu-9
+    span:
+    - body
+    - 4629
+    - 4629
+  label: 6 （蔡謨）(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0138_CBETA_006-mulu-10
+    span:
+    - body
+    - 5582
+    - 5582
+  label: 7 （顏延之）(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0138_CBETA_006-mulu-11
+    span:
+    - body
+    - 5820
+    - 5820
+  label: 8 （蕭摹之）(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0138_CBETA_006-mulu-12
+    span:
+    - body
+    - 5947
+    - 5947
+  label: 9 （周朗）(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0138_CBETA_006-mulu-13
+    span:
+    - body
+    - 6095
+    - 6095
+  label: 10 （虞愿）(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0138_CBETA_006-mulu-14
+    span:
+    - body
+    - 6240
+    - 6240
+  label: 11 （張普濟）(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0138_CBETA_006-mulu-15
+    span:
+    - body
+    - 6649
+    - 6649
+  label: 12 （李瑒）(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0138_CBETA_006-mulu-16
+    span:
+    - body
+    - 6883
+    - 6883
+  label: 13 （劉晝）(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6r0138_CBETA_006-mulu-17
+    span:
+    - body
+    - 7147
+    - 7147
+  label: 14 （陽衒之）(六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0138_CBETA_007-juan-start
+    span:
+    - body
+    - 0
+    - 9411
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0138_CBETA_007-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0138_CBETA_007-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 敘列代王臣滯惑解
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0138_CBETA_007-mulu-3
+    span:
+    - body
+    - 18
+    - 18
+  label: 下
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0138_CBETA_007-mulu-4
+    span:
+    - body
+    - 27
+    - 27
+  label: 15 （荀濟）(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0138_CBETA_007-mulu-5
+    span:
+    - body
+    - 4184
+    - 4184
+  label: 16 （章仇子陀）(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0138_CBETA_007-mulu-6
+    span:
+    - body
+    - 4554
+    - 4554
+  label: 17 （衛元嵩）(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0138_CBETA_007-mulu-7
+    span:
+    - body
+    - 5490
+    - 5490
+  label: 18 （劉慧琳）(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0138_CBETA_007-mulu-8
+    span:
+    - body
+    - 5569
+    - 5569
+  label: 19 （范縝）(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0138_CBETA_007-mulu-9
+    span:
+    - body
+    - 5631
+    - 5631
+  label: 20 （顧歡）(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0138_CBETA_007-mulu-10
+    span:
+    - body
+    - 5833
+    - 5833
+  label: 21 （邢子才）(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0138_CBETA_007-mulu-11
+    span:
+    - body
+    - 5929
+    - 5929
+  label: 22 （高道讓）(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0138_CBETA_007-mulu-12
+    span:
+    - body
+    - 6176
+    - 6176
+  label: 23 （李公緒）(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0138_CBETA_007-mulu-13
+    span:
+    - body
+    - 6369
+    - 6369
+  label: 24 （盧思道）(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6r0138_CBETA_007-mulu-14
+    span:
+    - body
+    - 7447
+    - 7447
+  label: 25 （傅奕）(七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0138_CBETA_008-juan-start
+    span:
+    - body
+    - 0
+    - 11835
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0138_CBETA_008-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0138_CBETA_008-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 6 擊像焚經坑僧詔(魏太武帝)(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0138_CBETA_008-mulu-3
+    span:
+    - body
+    - 648
+    - 648
+  label: 7 周滅佛法集道俗議事(周武帝)(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0138_CBETA_008-mulu-4
+    span:
+    - body
+    - 1376
+    - 1376
+  label: 8 二教論(道安)(八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0138_CBETA_008-mulu-5
+    span:
+    - body
+    - 1384
+    - 1384
+  label: 1 歸宗顯本
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0138_CBETA_008-mulu-6
+    span:
+    - body
+    - 2950
+    - 2950
+  label: 2 儒道昇降
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0138_CBETA_008-mulu-7
+    span:
+    - body
+    - 3759
+    - 3759
+  label: 3 君為教主
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0138_CBETA_008-mulu-8
+    span:
+    - body
+    - 4567
+    - 4567
+  label: 4 詰驗形神
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0138_CBETA_008-mulu-9
+    span:
+    - body
+    - 4762
+    - 4762
+  label: 5 仙異涅槃
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0138_CBETA_008-mulu-10
+    span:
+    - body
+    - 5048
+    - 5048
+  label: 6 道仙優劣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0138_CBETA_008-mulu-11
+    span:
+    - body
+    - 5254
+    - 5254
+  label: 7 孔老非佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0138_CBETA_008-mulu-12
+    span:
+    - body
+    - 5761
+    - 5761
+  label: 8 釋異道流
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0138_CBETA_008-mulu-13
+    span:
+    - body
+    - 6164
+    - 6164
+  label: 9 服法非老
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0138_CBETA_008-mulu-14
+    span:
+    - body
+    - 8239
+    - 8239
+  label: 10 明典真偽
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0138_CBETA_008-mulu-15
+    span:
+    - body
+    - 8761
+    - 8761
+  label: 11 教旨通局
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6r0138_CBETA_008-mulu-16
+    span:
+    - body
+    - 10736
+    - 10736
+  label: 12 依法除疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-juan-start
+    span:
+    - body
+    - 0
+    - 11955
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 之五
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 9 笑道論(甄鸞)(九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-3
+    span:
+    - body
+    - 544
+    - 544
+  label: 1 造立天地
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-4
+    span:
+    - body
+    - 1044
+    - 1044
+  label: 2 年號差舛者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-5
+    span:
+    - body
+    - 1520
+    - 1520
+  label: 3 元為天人者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-6
+    span:
+    - body
+    - 2076
+    - 2076
+  label: 4 四結土為人者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-7
+    span:
+    - body
+    - 2330
+    - 2330
+  label: 5 明五佛並興者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-8
+    span:
+    - body
+    - 3038
+    - 3038
+  label: 6 五練生尸者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-9
+    span:
+    - body
+    - 3289
+    - 3289
+  label: 7 觀音侍道者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-10
+    span:
+    - body
+    - 3601
+    - 3601
+  label: 8 佛生西陰者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-11
+    span:
+    - body
+    - 4055
+    - 4055
+  label: 9 日月周徑者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-12
+    span:
+    - body
+    - 4290
+    - 4290
+  label: 10 崑崙飛浮者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-13
+    span:
+    - body
+    - 4539
+    - 4539
+  label: 11 法道天置官者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-14
+    span:
+    - body
+    - 4745
+    - 4745
+  label: 12 稱南無佛者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-15
+    span:
+    - body
+    - 4971
+    - 4971
+  label: 13 鳥跡前文者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-16
+    span:
+    - body
+    - 5173
+    - 5173
+  label: 14 張騫取經者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-17
+    span:
+    - body
+    - 5442
+    - 5442
+  label: 15 日月普集者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-18
+    span:
+    - body
+    - 5758
+    - 5758
+  label: 16 大上尊貴者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-19
+    span:
+    - body
+    - 5962
+    - 5962
+  label: 17 五穀為刳命之鑿者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-20
+    span:
+    - body
+    - 6208
+    - 6208
+  label: 18 老子作佛者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-21
+    span:
+    - body
+    - 6694
+    - 6694
+  label: 19 勅瞿曇遣使者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-22
+    span:
+    - body
+    - 6943
+    - 6943
+  label: 20 以酒脯事邪求道者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-23
+    span:
+    - body
+    - 7130
+    - 7130
+  label: 21 佛邪亂政者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-24
+    span:
+    - body
+    - 7445
+    - 7445
+  label: 22 樹木聞誡枯死者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-25
+    span:
+    - body
+    - 7888
+    - 7888
+  label: 23 起禮北方為始者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-26
+    span:
+    - body
+    - 8084
+    - 8084
+  label: 24 害親求道者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-27
+    span:
+    - body
+    - 8337
+    - 8337
+  label: 25 延生符者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-28
+    span:
+    - body
+    - 8537
+    - 8537
+  label: 26 椿與劫齊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-29
+    span:
+    - body
+    - 8642
+    - 8642
+  label: 27 隨劫生死者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-30
+    span:
+    - body
+    - 9003
+    - 9003
+  label: 28 服丹成金色者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-31
+    span:
+    - body
+    - 9322
+    - 9322
+  label: 29 偷改佛經為道經者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-32
+    span:
+    - body
+    - 9569
+    - 9569
+  label: 30 偷佛經因果者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-33
+    span:
+    - body
+    - 9948
+    - 9948
+  label: 31 道經未出言出者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-34
+    span:
+    - body
+    - 10243
+    - 10243
+  label: 32 五億重天者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-35
+    span:
+    - body
+    - 10506
+    - 10506
+  label: 33 道士出入儀式
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-36
+    span:
+    - body
+    - 10760
+    - 10760
+  label: 34 道士奉佛者
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-37
+    span:
+    - body
+    - 11105
+    - 11105
+  label: 35 道士合氣法
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6r0138_CBETA_009-mulu-38
+    span:
+    - body
+    - 11290
+    - 11290
+  label: 36 諸子為道書者
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0138_CBETA_010-juan-start
+    span:
+    - body
+    - 0
+    - 9805
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0138_CBETA_010-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 之六
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0138_CBETA_010-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 10 周祖癈二教已更立通道觀詔(周文帝宇文邕)(一〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0138_CBETA_010-mulu-3
+    span:
+    - body
+    - 423
+    - 423
+  label: 11 周祖平齊召僧敘癈立抗拒事(惠遠)(一〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0138_CBETA_010-mulu-4
+    span:
+    - body
+    - 1583
+    - 1583
+  label: 12 周高祖巡鄴除殄佛法有前僧任道林上表請開法事(道林)(一〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6r0138_CBETA_010-mulu-5
+    span:
+    - body
+    - 5716
+    - 5716
+  label: 13 周天元立有上事者對衛元嵩(王明廣)(一〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6r0138_CBETA_011-juan-start
+    span:
+    - body
+    - 0
+    - 11600
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6r0138_CBETA_011-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 之七
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6r0138_CBETA_011-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 14 太史令朝散大夫臣傅奕上減省寺塔廢僧尼事(傅奕)(一一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6r0138_CBETA_011-mulu-3
+    span:
+    - body
+    - 1385
+    - 1385
+  label: 15 （唐廢省佛僧箴）(法琳)(一一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6r0138_CBETA_011-mulu-4
+    span:
+    - body
+    - 2843
+    - 2843
+  label: 16 （唐破邪論）(法琳)(一一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0138_CBETA_012-juan-start
+    span:
+    - body
+    - 0
+    - 10351
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0138_CBETA_012-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 之八
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6r0138_CBETA_012-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 17 決對傅奕廢佛法僧事并表(明槩)(一二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-juan-start
+    span:
+    - body
+    - 0
+    - 16690
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 之九
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-2
+    span:
+    - body
+    - 21
+    - 21
+  label: 18 辯正論十喻九箴篇(法琳)(一三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-3
+    span:
+    - body
+    - 21
+    - 21
+  label: 十喻篇上
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-4
+    span:
+    - body
+    - 108
+    - 108
+  label: 外一異曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-5
+    span:
+    - body
+    - 142
+    - 142
+  label: 內一喻曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-6
+    span:
+    - body
+    - 407
+    - 407
+  label: 外二異曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-7
+    span:
+    - body
+    - 435
+    - 435
+  label: 內二喻曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-8
+    span:
+    - body
+    - 529
+    - 529
+  label: 外三異曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-9
+    span:
+    - body
+    - 549
+    - 549
+  label: 內三喻曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-10
+    span:
+    - body
+    - 770
+    - 770
+  label: 外四異曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-11
+    span:
+    - body
+    - 798
+    - 798
+  label: 內四喻曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-12
+    span:
+    - body
+    - 1050
+    - 1050
+  label: 外五異曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-13
+    span:
+    - body
+    - 1086
+    - 1086
+  label: 內五喻曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-14
+    span:
+    - body
+    - 1332
+    - 1332
+  label: 外六異曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-15
+    span:
+    - body
+    - 1368
+    - 1368
+  label: 內六喻曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-16
+    span:
+    - body
+    - 1501
+    - 1501
+  label: 外七異曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-17
+    span:
+    - body
+    - 1541
+    - 1541
+  label: 內七喻曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-18
+    span:
+    - body
+    - 1704
+    - 1704
+  label: 外八異曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-19
+    span:
+    - body
+    - 1758
+    - 1758
+  label: 內八喻曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-20
+    span:
+    - body
+    - 2017
+    - 2017
+  label: 外九異曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-21
+    span:
+    - body
+    - 2045
+    - 2045
+  label: 內九喻曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-22
+    span:
+    - body
+    - 2334
+    - 2334
+  label: 外十異曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-23
+    span:
+    - body
+    - 2360
+    - 2360
+  label: 內十喻曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-24
+    span:
+    - body
+    - 2505
+    - 2505
+  label: 內十喻答外十異
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-25
+    span:
+    - body
+    - 2512
+    - 2512
+  label: 1 外從生左右異
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-26
+    span:
+    - body
+    - 2567
+    - 2567
+  label: 內從生有勝劣
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-27
+    span:
+    - body
+    - 2905
+    - 2905
+  label: 2 外教門生滅異
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-28
+    span:
+    - body
+    - 2994
+    - 2994
+  label: 內立教有淺深
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-29
+    span:
+    - body
+    - 3191
+    - 3191
+  label: 3 外方位東西異
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-30
+    span:
+    - body
+    - 3396
+    - 3396
+  label: 3 內德位有高卑
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-31
+    span:
+    - body
+    - 3725
+    - 3725
+  label: 4 外適化華夷異
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-32
+    span:
+    - body
+    - 3797
+    - 3797
+  label: 內化緣有廣狹
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-33
+    span:
+    - body
+    - 4017
+    - 4017
+  label: 5 外稟生夭壽異
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-34
+    span:
+    - body
+    - 4108
+    - 4108
+  label: 5 內壽夭有延促
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-35
+    span:
+    - body
+    - 4490
+    - 4490
+  label: 6 外從生前後異
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-36
+    span:
+    - body
+    - 4570
+    - 4570
+  label: 內化迹有先後
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-37
+    span:
+    - body
+    - 4776
+    - 4776
+  label: 7 外遷神返寂異
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-38
+    span:
+    - body
+    - 4867
+    - 4867
+  label: 內遷謝有顯晦
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-39
+    span:
+    - body
+    - 5065
+    - 5065
+  label: 8 外賢聖相好異
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-40
+    span:
+    - body
+    - 5153
+    - 5153
+  label: 內相好有多少
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-41
+    span:
+    - body
+    - 5483
+    - 5483
+  label: 9 外中表威儀異
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-42
+    span:
+    - body
+    - 5621
+    - 5621
+  label: 內威儀有同異
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-43
+    span:
+    - body
+    - 5821
+    - 5821
+  label: 10 外設規逆順異
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-44
+    span:
+    - body
+    - 5922
+    - 5922
+  label: 內法門有漸頓
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-45
+    span:
+    - body
+    - 6195
+    - 6195
+  label: 九箴篇下
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-46
+    span:
+    - body
+    - 6389
+    - 6389
+  label: 1 內周世無機指
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-47
+    span:
+    - body
+    - 7091
+    - 7091
+  label: 2 內建造像塔指
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-48
+    span:
+    - body
+    - 8319
+    - 8319
+  label: 3 內威儀器服指
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-49
+    span:
+    - body
+    - 8946
+    - 8946
+  label: 4 內棄耕分衛指
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-50
+    span:
+    - body
+    - 9929
+    - 9929
+  label: 5 內教為治本指
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-51
+    span:
+    - body
+    - 10786
+    - 10786
+  label: 6 內箴忠孝無違指
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-52
+    span:
+    - body
+    - 11572
+    - 11572
+  label: 7 內三寶無翻指
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-53
+    span:
+    - body
+    - 12300
+    - 12300
+  label: 8 內異方同制
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6r0138_CBETA_013-mulu-54
+    span:
+    - body
+    - 14163
+    - 14163
+  label: 9 內老身非佛指
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-juan-start
+    span:
+    - body
+    - 0
+    - 27602
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 之十
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 19 內德論(李師政)(一四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-3
+    span:
+    - body
+    - 867
+    - 867
+  label: 1 辯惑篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-4
+    span:
+    - body
+    - 5040
+    - 5040
+  label: 2 通命篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-5
+    span:
+    - body
+    - 7512
+    - 7512
+  label: 3 空有篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-6
+    span:
+    - body
+    - 10962
+    - 10962
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-7
+    span:
+    - body
+    - 11307
+    - 11307
+  label: 佛德篇目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-8
+    span:
+    - body
+    - 11307
+    - 11307
+  label: 3 佛德篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-9
+    span:
+    - body
+    - 11307
+    - 11307
+  label: 之初
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-10
+    span:
+    - body
+    - 11318
+    - 11318
+  label: 1 （佛釋迦文菩薩等像讚）(支道林)(一五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-11
+    span:
+    - body
+    - 11318
+    - 11318
+  label: 釋迦文佛像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-12
+    span:
+    - body
+    - 12384
+    - 12384
+  label: 阿彌陀佛像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-13
+    span:
+    - body
+    - 13027
+    - 13027
+  label: 諸菩薩讚十一首
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-14
+    span:
+    - body
+    - 13034
+    - 13034
+  label: 文殊師利讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-15
+    span:
+    - body
+    - 13099
+    - 13099
+  label: 彌勒讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-16
+    span:
+    - body
+    - 13212
+    - 13212
+  label: 維摩詰讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-17
+    span:
+    - body
+    - 13276
+    - 13276
+  label: 善思菩薩讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-18
+    span:
+    - body
+    - 13371
+    - 13371
+  label: 不二入菩薩讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-19
+    span:
+    - body
+    - 13377
+    - 13377
+  label: 法作菩薩讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-20
+    span:
+    - body
+    - 13432
+    - 13432
+  label: 首閈菩薩讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-21
+    span:
+    - body
+    - 13477
+    - 13477
+  label: 不眴菩薩讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-22
+    span:
+    - body
+    - 13532
+    - 13532
+  label: 善宿菩薩讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-23
+    span:
+    - body
+    - 13577
+    - 13577
+  label: 善多菩薩讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-24
+    span:
+    - body
+    - 13622
+    - 13622
+  label: 首立菩薩讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-25
+    span:
+    - body
+    - 13667
+    - 13667
+  label: 月光童子讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-26
+    span:
+    - body
+    - 13752
+    - 13752
+  label: 2 佛影銘(慧遠)(一五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-27
+    span:
+    - body
+    - 14713
+    - 14713
+  label: 晉襄陽丈六金像讚序
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-28
+    span:
+    - body
+    - 15230
+    - 15230
+  label: 文殊像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-29
+    span:
+    - body
+    - 15301
+    - 15301
+  label: 文殊像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-30
+    span:
+    - body
+    - 15971
+    - 15971
+  label: 3 佛影銘(謝靈運)(一五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-31
+    span:
+    - body
+    - 16538
+    - 16538
+  label: 佛讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-32
+    span:
+    - body
+    - 16609
+    - 16609
+  label: 范特進書
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-33
+    span:
+    - body
+    - 16758
+    - 16758
+  label: 答范特進書送佛讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-34
+    span:
+    - body
+    - 16948
+    - 16948
+  label: 和范特進祇洹像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-35
+    span:
+    - body
+    - 16982
+    - 16982
+  label: 佛讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-36
+    span:
+    - body
+    - 17016
+    - 17016
+  label: 菩薩讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-37
+    span:
+    - body
+    - 17051
+    - 17051
+  label: 緣覺聲聞合讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-38
+    span:
+    - body
+    - 17089
+    - 17089
+  label: 無量壽頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-39
+    span:
+    - body
+    - 17138
+    - 17138
+  label: 維摩詰經中十譬讚八首
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-40
+    span:
+    - body
+    - 17148
+    - 17148
+  label: 聚沫泡合
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-41
+    span:
+    - body
+    - 17192
+    - 17192
+  label: 焰
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-42
+    span:
+    - body
+    - 17223
+    - 17223
+  label: 芭蕉
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-43
+    span:
+    - body
+    - 17265
+    - 17265
+  label: 幻
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-44
+    span:
+    - body
+    - 17306
+    - 17306
+  label: 夢
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-45
+    span:
+    - body
+    - 17347
+    - 17347
+  label: 影響合
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-46
+    span:
+    - body
+    - 17390
+    - 17390
+  label: 浮雲
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-47
+    span:
+    - body
+    - 17432
+    - 17432
+  label: 電
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-48
+    span:
+    - body
+    - 17473
+    - 17473
+  label: 4 佛記序(沈約)(一五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-49
+    span:
+    - body
+    - 18772
+    - 18772
+  label: 5 略列大唐育王古塔歷并佛像經法神瑞迹(道宣)(一五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-50
+    span:
+    - body
+    - 21618
+    - 21618
+  label: 6 出古育王塔下佛舍利詔(梁武帝)(一五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-51
+    span:
+    - body
+    - 22062
+    - 22062
+  label: 7 菩提樹頌(蕭綱)(一五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-52
+    span:
+    - body
+    - 22062
+    - 22062
+  label: 上菩提樹頌啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-53
+    span:
+    - body
+    - 22347
+    - 22347
+  label: 菩提樹頌并序
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-54
+    span:
+    - body
+    - 23340
+    - 23340
+  label: 8 唱導文(蕭綱)(一五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-55
+    span:
+    - body
+    - 24515
+    - 24515
+  label: 9 禮佛發願文(王僧儒)(一五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-56
+    span:
+    - body
+    - 25695
+    - 25695
+  label: 懺悔禮佛文
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6r0138_CBETA_014-mulu-57
+    span:
+    - body
+    - 26882
+    - 26882
+  label: 初夜文
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-juan-start
+    span:
+    - body
+    - 0
+    - 5368
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 10 謝述佛法事書啟(梁簡文帝)(一六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-3
+    span:
+    - body
+    - 18
+    - 18
+  label: 奉阿育王寺錢啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-4
+    span:
+    - body
+    - 270
+    - 270
+  label: 謝勅苦行像并佛跡等啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-5
+    span:
+    - body
+    - 388
+    - 388
+  label: 謝勅參迎佛啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-6
+    span:
+    - body
+    - 447
+    - 447
+  label: 答勅聽從舍利入殿禮拜啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-7
+    span:
+    - body
+    - 565
+    - 565
+  label: 謝勅賚銅供造善覺寺塔露盤啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-8
+    span:
+    - body
+    - 708
+    - 708
+  label: 謝勅使入光嚴殿禮拜啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-9
+    span:
+    - body
+    - 791
+    - 791
+  label: 謝勅使監善覺寺起剎啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-10
+    span:
+    - body
+    - 910
+    - 910
+  label: 謝御幸善覺寺看剎啟并答
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-11
+    span:
+    - body
+    - 1035
+    - 1035
+  label: 謝勅賚錢并白檀香充法會啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-12
+    span:
+    - body
+    - 1161
+    - 1161
+  label: 謝勅賚柏剎柱并銅萬斤啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-13
+    span:
+    - body
+    - 1268
+    - 1268
+  label: 千佛願文
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-14
+    span:
+    - body
+    - 1424
+    - 1424
+  label: 為人造丈八夾紵金薄像疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-15
+    span:
+    - body
+    - 1675
+    - 1675
+  label: 與僧正教
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-16
+    span:
+    - body
+    - 2045
+    - 2045
+  label: 與廣信侯書
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-17
+    span:
+    - body
+    - 2327
+    - 2327
+  label: 與慧琰法師書
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-18
+    span:
+    - body
+    - 2661
+    - 2661
+  label: 答湘東王書
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-19
+    span:
+    - body
+    - 2915
+    - 2915
+  label: 11 寺剎佛塔諸銘頌(沈約等)(一六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-20
+    span:
+    - body
+    - 2922
+    - 2922
+  label: 南齊僕射王奐枳園寺剎下石記
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-21
+    span:
+    - body
+    - 3365
+    - 3365
+  label: 齊竟陵王題佛光文
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-22
+    span:
+    - body
+    - 3532
+    - 3532
+  label: 彌陀佛銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-23
+    span:
+    - body
+    - 3696
+    - 3696
+  label: 瑞石像銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-24
+    span:
+    - body
+    - 4226
+    - 4226
+  label: 釋迦文佛像銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-25
+    span:
+    - body
+    - 4363
+    - 4363
+  label: 千佛頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-26
+    span:
+    - body
+    - 4494
+    - 4494
+  label: 彌勒贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-27
+    span:
+    - body
+    - 4613
+    - 4613
+  label: 繡像題贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-28
+    span:
+    - body
+    - 4759
+    - 4759
+  label: 光宅寺剎下銘并序
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6r0138_CBETA_016-mulu-29
+    span:
+    - body
+    - 5167
+    - 5167
+  label: 栖禪精舍銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-juan-start
+    span:
+    - body
+    - 0
+    - 23547
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 12 （隋國立舍利塔詔）(隋高祖)(一七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-3
+    span:
+    - body
+    - 363
+    - 363
+  label: 13 舍利感應記(王邵)(一七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-4
+    span:
+    - body
+    - 4543
+    - 4543
+  label: 14 慶舍利感應表并答(一七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-5
+    span:
+    - body
+    - 10391
+    - 10391
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-6
+    span:
+    - body
+    - 10752
+    - 10752
+  label: 法義篇目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-7
+    span:
+    - body
+    - 10752
+    - 10752
+  label: 4 法義篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-8
+    span:
+    - body
+    - 10752
+    - 10752
+  label: 之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-9
+    span:
+    - body
+    - 10763
+    - 10763
+  label: 1 釋疑論(戴安)(一八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-10
+    span:
+    - body
+    - 11563
+    - 11563
+  label: 2 與遠法師書(戴安)(一八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-11
+    span:
+    - body
+    - 11563
+    - 11563
+  label: 與遠法師書
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-12
+    span:
+    - body
+    - 11692
+    - 11692
+  label: 遠法師答
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-13
+    span:
+    - body
+    - 11783
+    - 11783
+  label: 3 難釋疑論(道祖)(一八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-14
+    span:
+    - body
+    - 12445
+    - 12445
+  label: 4 重與遠法師書(戴安)(一八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-15
+    span:
+    - body
+    - 12445
+    - 12445
+  label: 重與遠法師書
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-16
+    span:
+    - body
+    - 12527
+    - 12527
+  label: 釋疑論答周居士難
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-17
+    span:
+    - body
+    - 13596
+    - 13596
+  label: 周居士書
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-18
+    span:
+    - body
+    - 13731
+    - 13731
+  label: 遠法師書
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-19
+    span:
+    - body
+    - 13843
+    - 13843
+  label: 答遠法師書
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-20
+    span:
+    - body
+    - 13971
+    - 13971
+  label: 5 報應問(何承天)(一八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-21
+    span:
+    - body
+    - 13971
+    - 13971
+  label: 報應問
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-22
+    span:
+    - body
+    - 14316
+    - 14316
+  label: 答何承天
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-23
+    span:
+    - body
+    - 14957
+    - 14957
+  label: 6 （辯宗論）(謝靈運)(一八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-24
+    span:
+    - body
+    - 14957
+    - 14957
+  label: 辯宗論諸道人王衛軍問答
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-25
+    span:
+    - body
+    - 16179
+    - 16179
+  label: 慧驎演僧維問
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-26
+    span:
+    - body
+    - 17487
+    - 17487
+  label: 答綱琳二法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-27
+    span:
+    - body
+    - 17537
+    - 17537
+  label: 答綱公難
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-28
+    span:
+    - body
+    - 17766
+    - 17766
+  label: 答琳公難
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-29
+    span:
+    - body
+    - 18044
+    - 18044
+  label: 王衛軍問
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-30
+    span:
+    - body
+    - 18393
+    - 18393
+  label: 王弘敬謂答王衛軍問
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-31
+    span:
+    - body
+    - 18983
+    - 18983
+  label: 王衛軍重答書
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-32
+    span:
+    - body
+    - 19044
+    - 19044
+  label: 竺道生答王衛軍書
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-33
+    span:
+    - body
+    - 19173
+    - 19173
+  label: 7 （述佛法諸深義）(姚興)(一八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-34
+    span:
+    - body
+    - 19173
+    - 19173
+  label: 與安成侯嵩書
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-35
+    span:
+    - body
+    - 19325
+    - 19325
+  label: 通三世論
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-36
+    span:
+    - body
+    - 19538
+    - 19538
+  label: 什法師答
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-37
+    span:
+    - body
+    - 19941
+    - 19941
+  label: 通聖人放大光明普照十方
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-38
+    span:
+    - body
+    - 20106
+    - 20106
+  label: 通三世
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-39
+    span:
+    - body
+    - 20145
+    - 20145
+  label: 通一切諸法空
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-40
+    span:
+    - body
+    - 20168
+    - 20168
+  label: 安成侯姚嵩表
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-41
+    span:
+    - body
+    - 20644
+    - 20644
+  label: 難上通聖人放大光明普照十方
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-42
+    span:
+    - body
+    - 20962
+    - 20962
+  label: 難通一切諸法皆空
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-43
+    span:
+    - body
+    - 21184
+    - 21184
+  label: 姚興答
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-44
+    span:
+    - body
+    - 21825
+    - 21825
+  label: 安成侯嵩重表
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6r0138_CBETA_017-mulu-45
+    span:
+    - body
+    - 22045
+    - 22045
+  label: 8 析疑論(慧淨)(一八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-juan-start
+    span:
+    - body
+    - 0
+    - 11766
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 9 內典序(沈約)(一九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-3
+    span:
+    - body
+    - 1146
+    - 1146
+  label: 10 南齊皇太子解講疏(沈約)(一九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-4
+    span:
+    - body
+    - 1311
+    - 1311
+  label: 11 齊竟陵王發講疏(沈約)(一九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-5
+    span:
+    - body
+    - 1716
+    - 1716
+  label: 12 竟陵王解講疏(沈約)(一九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-6
+    span:
+    - body
+    - 1716
+    - 1716
+  label: 竟陵王解講疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-7
+    span:
+    - body
+    - 1908
+    - 1908
+  label: 又竟陵王解講疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-8
+    span:
+    - body
+    - 2152
+    - 2152
+  label: 13 與荊州隱士劉虬書(竟陵王)(一九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-9
+    span:
+    - body
+    - 3653
+    - 3653
+  label: 14 （請梁祖講金宇波若啟）(梁皇子綱)(一九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-10
+    span:
+    - body
+    - 3653
+    - 3653
+  label: 請御講啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-11
+    span:
+    - body
+    - 4032
+    - 4032
+  label: 重啟請御講
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-12
+    span:
+    - body
+    - 4457
+    - 4457
+  label: 又啟請御講
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-13
+    span:
+    - body
+    - 4789
+    - 4789
+  label: 謝上降為開講啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-14
+    span:
+    - body
+    - 4920
+    - 4920
+  label: 啟奉請上開講
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-15
+    span:
+    - body
+    - 5215
+    - 5215
+  label: 啟謝上降為開講
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-16
+    span:
+    - body
+    - 5460
+    - 5460
+  label: 15 御講波若經序一(陸雲)(一九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-17
+    span:
+    - body
+    - 7016
+    - 7016
+  label: 16 （敘御講般若義）(蕭子顯)(一九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-18
+    span:
+    - body
+    - 7040
+    - 7040
+  label: 御講金字摩訶般若波羅蜜經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-19
+    span:
+    - body
+    - 9229
+    - 9229
+  label: 發般若經題論義
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-20
+    span:
+    - body
+    - 11570
+    - 11570
+  label: 17 （謝御講波若竟啟）(梁皇太子)(一九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-21
+    span:
+    - body
+    - 11570
+    - 11570
+  label: 主上垂為開講日參承
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6r0138_CBETA_019-mulu-22
+    span:
+    - body
+    - 11672
+    - 11672
+  label: 答謝開講般若啟敕
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0138_CBETA_020-juan-start
+    span:
+    - body
+    - 0
+    - 9360
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0138_CBETA_020-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0138_CBETA_020-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 18 （上大法頌）(梁皇太子)(二〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0138_CBETA_020-mulu-3
+    span:
+    - body
+    - 18
+    - 18
+  label: 上大法頌表
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0138_CBETA_020-mulu-4
+    span:
+    - body
+    - 264
+    - 264
+  label: 大法頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0138_CBETA_020-mulu-5
+    span:
+    - body
+    - 2949
+    - 2949
+  label: 19 （上太子玄圃講頌）(晉安王綱)(二〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0138_CBETA_020-mulu-6
+    span:
+    - body
+    - 2949
+    - 2949
+  label: 上皇太子玄圃講頌啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0138_CBETA_020-mulu-7
+    span:
+    - body
+    - 3164
+    - 3164
+  label: 皇太子令答
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0138_CBETA_020-mulu-8
+    span:
+    - body
+    - 3253
+    - 3253
+  label: 玄圃園講頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0138_CBETA_020-mulu-9
+    span:
+    - body
+    - 3760
+    - 3760
+  label: 20 為亮法師製涅槃經疏序(梁武帝)(二〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0138_CBETA_020-mulu-10
+    span:
+    - body
+    - 4015
+    - 4015
+  label: 21 梁簡文帝法寶聯璧序(湘東王繹)(二〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0138_CBETA_020-mulu-11
+    span:
+    - body
+    - 5673
+    - 5673
+  label: 22 莊嚴旻法師成實論義疏序(梁皇太子綱)(二〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0138_CBETA_020-mulu-12
+    span:
+    - body
+    - 6505
+    - 6505
+  label: 23 內典碑銘集序(梁元帝)(二〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0138_CBETA_020-mulu-13
+    span:
+    - body
+    - 7002
+    - 7002
+  label: 24  （禪林妙記集序）(玄則)(二〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0138_CBETA_020-mulu-14
+    span:
+    - body
+    - 7002
+    - 7002
+  label: 敘佛緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0138_CBETA_020-mulu-15
+    span:
+    - body
+    - 7006
+    - 7006
+  label: 禪林妙記前集序
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0138_CBETA_020-mulu-16
+    span:
+    - body
+    - 8012
+    - 8012
+  label: 禪林妙記後集序
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6r0138_CBETA_020-mulu-17
+    span:
+    - body
+    - 8776
+    - 8776
+  label: 25 法苑珠林序(李儼)(二〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-juan-start
+    span:
+    - body
+    - 0
+    - 7396
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 26 答雲法師請開講書(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-3
+    span:
+    - body
+    - 162
+    - 162
+  label: 釋法雲啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-4
+    span:
+    - body
+    - 304
+    - 304
+  label: 答雲法師書
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-5
+    span:
+    - body
+    - 356
+    - 356
+  label: 27 謝勅齎水犀如意啟(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-6
+    span:
+    - body
+    - 496
+    - 496
+  label: 28 令旨解二諦義(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-7
+    span:
+    - body
+    - 893
+    - 893
+  label: 29 （南
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-8
+    span:
+    - body
+    - 1166
+    - 1166
+  label: 30 （晉安王蕭綱諮二諦義旨）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-9
+    span:
+    - body
+    - 1474
+    - 1474
+  label: 31 （招提寺釋慧琰諮二諦義）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-10
+    span:
+    - body
+    - 1653
+    - 1653
+  label: 32 （栖玄寺釋雲宗諮二諦義）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-11
+    span:
+    - body
+    - 1809
+    - 1809
+  label: 33 （中郎王規諮二諦義旨）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-12
+    span:
+    - body
+    - 1957
+    - 1957
+  label: 34 （靈根寺釋僧遷諮二諦義）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-13
+    span:
+    - body
+    - 2131
+    - 2131
+  label: 35 （羅平侯蕭正立諮二諦義旨）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-14
+    span:
+    - body
+    - 2257
+    - 2257
+  label: 36 （衡山侯蕭恭諮二諦義旨）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-15
+    span:
+    - body
+    - 2405
+    - 2405
+  label: 37 （中興寺僧懷諮二諦義）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-16
+    span:
+    - body
+    - 2575
+    - 2575
+  label: 38 （始興王第四男蕭映諮二諦義旨）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-17
+    span:
+    - body
+    - 2727
+    - 2727
+  label: 39 （吳平王世子蕭勵諮二諦義旨）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-18
+    span:
+    - body
+    - 2945
+    - 2945
+  label: 40 （宋熙寺釋慧令諮二諦義）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-19
+    span:
+    - body
+    - 3094
+    - 3094
+  label: 41 （始興王第五男蕭曄諮二諦義旨）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-20
+    span:
+    - body
+    - 3262
+    - 3262
+  label: 42 （興皇寺釋法宣諮二諦義）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-21
+    span:
+    - body
+    - 3392
+    - 3392
+  label: 43 （程鄉侯蕭祇諮二諦義旨）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-22
+    span:
+    - body
+    - 3543
+    - 3543
+  label: 44 （光宅寺釋法雲諮二諦義）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-23
+    span:
+    - body
+    - 3684
+    - 3684
+  label: 45 （靈根寺釋慧令諮二諦義）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-24
+    span:
+    - body
+    - 3837
+    - 3837
+  label: 46 （湘宮寺釋慧興諮二諦義）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-25
+    span:
+    - body
+    - 3958
+    - 3958
+  label: 47 （莊嚴寺釋僧旻諮二諦義）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-26
+    span:
+    - body
+    - 4115
+    - 4115
+  label: 48 （宣武寺釋法寵諮二諦義）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-27
+    span:
+    - body
+    - 4305
+    - 4305
+  label: 49 （建業寺釋僧愍諮二諦義）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-28
+    span:
+    - body
+    - 4396
+    - 4396
+  label: 50 （光宅寺釋敬脫諮二諦義）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-29
+    span:
+    - body
+    - 4580
+    - 4580
+  label: 51 令旨解法身義(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-30
+    span:
+    - body
+    - 4822
+    - 4822
+  label: 52 （招提寺釋慧琰諮法身義）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-31
+    span:
+    - body
+    - 5012
+    - 5012
+  label: 53 （光宅寺釋法雲諮法身義）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-32
+    span:
+    - body
+    - 5200
+    - 5200
+  label: 54 （莊嚴寺釋僧旻諮法身義）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-33
+    span:
+    - body
+    - 5378
+    - 5378
+  label: 55 （宣武寺釋法寵諮法身義）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-34
+    span:
+    - body
+    - 5560
+    - 5560
+  label: 56 （靈根寺釋慧令諮法身義）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-35
+    span:
+    - body
+    - 5740
+    - 5740
+  label: 57 （靈味寺釋靜安諮法身義）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-36
+    span:
+    - body
+    - 5946
+    - 5946
+  label: 58 謝勅賚看講啟(梁昭明太子)(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-37
+    span:
+    - body
+    - 6056
+    - 6056
+  label: 59 謝勅參解講啟(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-38
+    span:
+    - body
+    - 6227
+    - 6227
+  label: 60 謝勅賚制旨大涅槃經講疏啟(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-39
+    span:
+    - body
+    - 6400
+    - 6400
+  label: 61 謝勅賚制旨大集經講疏啟(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-40
+    span:
+    - body
+    - 6549
+    - 6549
+  label: 62 答廣信侯書(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-41
+    span:
+    - body
+    - 6630
+    - 6630
+  label: 63 與廣信侯書(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6r0138_CBETA_021-mulu-42
+    span:
+    - body
+    - 6911
+    - 6911
+  label: 64 （廣信侯蕭映答王心要）(二一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-juan-start
+    span:
+    - body
+    - 0
+    - 25959
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 之五
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 65 佛知不異眾生知義(沈約)(二二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-3
+    span:
+    - body
+    - 178
+    - 178
+  label: 66 六道相續作佛義(沈約)(二二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-4
+    span:
+    - body
+    - 383
+    - 383
+  label: 67 因緣義(沈約)(二二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-5
+    span:
+    - body
+    - 547
+    - 547
+  label: 68 論形神(沈約)(二二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-6
+    span:
+    - body
+    - 903
+    - 903
+  label: 69 神不滅論(沈約)(二二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-7
+    span:
+    - body
+    - 1400
+    - 1400
+  label: 70 難范縝神滅論(沈約)(二二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-8
+    span:
+    - body
+    - 2493
+    - 2493
+  label: 71-72 因緣無性論 性法自然論
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-9
+    span:
+    - body
+    - 2493
+    - 2493
+  label: 因緣無性論序
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-10
+    span:
+    - body
+    - 2599
+    - 2599
+  label: 72 性法自然論(朱世卿)(二二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-11
+    span:
+    - body
+    - 4739
+    - 4739
+  label: 71 因緣無性論(真觀)(二二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-12
+    span:
+    - body
+    - 6181
+    - 6181
+  label: 73 齊三部一切經願文(魏收)(二二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-13
+    span:
+    - body
+    - 6346
+    - 6346
+  label: 74 周經藏願文(王褒)(二二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-14
+    span:
+    - body
+    - 6590
+    - 6590
+  label: 75 寶臺經藏願文(隋煬帝)(二二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-15
+    span:
+    - body
+    - 7414
+    - 7414
+  label: 請御制經序表
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-16
+    span:
+    - body
+    - 7546
+    - 7546
+  label: 勅答玄奘法師前表
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-17
+    span:
+    - body
+    - 7673
+    - 7673
+  label: 76 三藏聖教序(唐太宗)(二二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-18
+    span:
+    - body
+    - 8464
+    - 8464
+  label: 謝勅齎經序啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-19
+    span:
+    - body
+    - 8748
+    - 8748
+  label: 勅答謝啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-20
+    span:
+    - body
+    - 8815
+    - 8815
+  label: 77 皇太子臣治述聖記三藏經序(皇太子治)(二二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-21
+    span:
+    - body
+    - 9405
+    - 9405
+  label: 皇太子答沙門玄奘謝聖教序書
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-22
+    span:
+    - body
+    - 9467
+    - 9467
+  label: 78 金剛般若經注序(褚亮)(二二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-23
+    span:
+    - body
+    - 9884
+    - 9884
+  label: 79 金剛般若經集註序(李儼)(二二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-24
+    span:
+    - body
+    - 10489
+    - 10489
+  label: 80 與翻經大德等書(柳宣)(二二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-25
+    span:
+    - body
+    - 11419
+    - 11419
+  label: 答博士柳宣
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-26
+    span:
+    - body
+    - 13187
+    - 13187
+  label: 重請三藏聖教序啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-27
+    span:
+    - body
+    - 13628
+    - 13628
+  label: 謝皇太子聖教序述啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-28
+    span:
+    - body
+    - 13744
+    - 13744
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-29
+    span:
+    - body
+    - 14151
+    - 14151
+  label: 僧行篇目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-30
+    span:
+    - body
+    - 14151
+    - 14151
+  label: 5 僧行篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-31
+    span:
+    - body
+    - 14151
+    - 14151
+  label: 之初
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-32
+    span:
+    - body
+    - 14162
+    - 14162
+  label: （一）諸僧誄行狀
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-33
+    span:
+    - body
+    - 14167
+    - 14167
+  label: 1 道士支曇諦誄(丘道護)(二三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-34
+    span:
+    - body
+    - 15278
+    - 15278
+  label: 2 鳩摩羅什法師誄(僧肇)(二三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-35
+    span:
+    - body
+    - 16342
+    - 16342
+  label: 3 武丘法綱法師誄(慧琳)(二三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-36
+    span:
+    - body
+    - 16969
+    - 16969
+  label: 4 龍光寺竺道生法師誄(慧琳)(二三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-37
+    span:
+    - body
+    - 17741
+    - 17741
+  label: 5 曇隆法師誄(謝靈運)(二三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-38
+    span:
+    - body
+    - 18826
+    - 18826
+  label: 6 廬山慧遠法師誄(謝靈運)(二三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-39
+    span:
+    - body
+    - 19433
+    - 19433
+  label: 7 若邪山敬法師誄(張暢)(二三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-40
+    span:
+    - body
+    - 20407
+    - 20407
+  label: 8 新安寺釋玄運法師誄(慧林)(二三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-41
+    span:
+    - body
+    - 21135
+    - 21135
+  label: 9 南齊安樂寺律師智稱法師行狀(二三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-42
+    span:
+    - body
+    - 22390
+    - 22390
+  label: 10 廬山香鑪峯寺景法師行狀(虞羲)(二三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR6r0138_CBETA_022-mulu-43
+    span:
+    - body
+    - 23376
+    - 23376
+  label: 11 南齊禪林寺尼淨秀行狀(沈淨)(二三)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-juan-start
+    span:
+    - body
+    - 0
+    - 11618
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 二之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-3
+    span:
+    - body
+    - 18
+    - 18
+  label: 12 沙汰僧徒詔(宋武帝)(二四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-4
+    span:
+    - body
+    - 94
+    - 94
+  label: 13 褒揚僧德詔(元魏孝文帝)(二四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-5
+    span:
+    - body
+    - 104
+    - 104
+  label: 帝以僧顯為沙門都統詔
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-6
+    span:
+    - body
+    - 273
+    - 273
+  label: 帝立僧尼制詔
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-7
+    span:
+    - body
+    - 429
+    - 429
+  label: 帝聽諸法師一月三入殿詔
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-8
+    span:
+    - body
+    - 580
+    - 580
+  label: 帝令諸州眾僧安居講說詔
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-9
+    span:
+    - body
+    - 700
+    - 700
+  label: 贈徐州僧統并設齋詔
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-10
+    span:
+    - body
+    - 831
+    - 831
+  label: 歲施道人應統帛詔
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-11
+    span:
+    - body
+    - 937
+    - 937
+  label: 帝為慧紀法師亡施帛設齋詔
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-12
+    span:
+    - body
+    - 1048
+    - 1048
+  label: 14 述僧中食論(沈約)(二四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-13
+    span:
+    - body
+    - 1382
+    - 1382
+  label: 15 述僧設會論(沈約)(二四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-14
+    span:
+    - body
+    - 1772
+    - 1772
+  label: 16 議沙汰釋李詔并啟(北齊文宣帝)(二四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-15
+    span:
+    - body
+    - 2032
+    - 2032
+  label: 臣樊孝謙謹奉詔
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-16
+    span:
+    - body
+    - 2511
+    - 2511
+  label: 17 弔道澄法師亡書(梁簡文帝)(二四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-17
+    span:
+    - body
+    - 2727
+    - 2727
+  label: 18 與東陽盛法師書(王筠)(二四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-18
+    span:
+    - body
+    - 2996
+    - 2996
+  label: 19 與汝南周顒書(智林)(二四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-19
+    span:
+    - body
+    - 3403
+    - 3403
+  label: 20 與舉法師書(劉孝標)(二四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-20
+    span:
+    - body
+    - 3707
+    - 3707
+  label: 21 與皎法師書并答(王曼穎)(二四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-21
+    span:
+    - body
+    - 4247
+    - 4247
+  label: 晈法師答
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-22
+    span:
+    - body
+    - 4504
+    - 4504
+  label: 22 弔震法師亡書(劉之遴)(二四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-23
+    span:
+    - body
+    - 4678
+    - 4678
+  label: 23 與震兄李敬朏書(劉之遴)(二四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-24
+    span:
+    - body
+    - 4945
+    - 4945
+  label: 24 弔僧正京法師亡書(劉之遴)(二四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-25
+    span:
+    - body
+    - 5296
+    - 5296
+  label: 25 東陽金華山栖志(劉孝標)(二四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-26
+    span:
+    - body
+    - 6481
+    - 6481
+  label: 26 與徐僕射領軍述役僧書(真觀)(二四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-27
+    span:
+    - body
+    - 7885
+    - 7885
+  label: 27 諫仁山深法師罷道書(徐陵)(二四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-28
+    span:
+    - body
+    - 9197
+    - 9197
+  label: 28 諫周祖沙汰僧表(曇積)(二四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-29
+    span:
+    - body
+    - 10140
+    - 10140
+  label: 29 戴逵貽書與仙城禪師命禪師座下(二四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-30
+    span:
+    - body
+    - 10782
+    - 10782
+  label: 30 幽林沙門釋惠命詶書濟北戴先生(二四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6r0138_CBETA_024-mulu-31
+    span:
+    - body
+    - 11341
+    - 11341
+  label: 31 弔延法師亡書(薛道衡)(二四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-158
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-juan-start
+    span:
+    - body
+    - 0
+    - 92030
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-2
+    span:
+    - body
+    - 18
+    - 18
+  label: 二之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-3
+    span:
+    - body
+    - 18
+    - 18
+  label: 32 福田論(彥琮)(二五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-4
+    span:
+    - body
+    - 3216
+    - 3216
+  label: 33 問出家損益詔并答(唐高祖)(二五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-5
+    span:
+    - body
+    - 3660
+    - 3660
+  label: 34 出沙汰佛道詔(唐高祖)(二五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-6
+    span:
+    - body
+    - 4111
+    - 4111
+  label: 35 令道士在僧前詔并表(唐太宗)(二五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-7
+    span:
+    - body
+    - 4731
+    - 4731
+  label: 36 （議沙門敬三大詔）(唐高宗)(二五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-8
+    span:
+    - body
+    - 4731
+    - 4731
+  label: 今上制沙門等致拜君親勅
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-9
+    span:
+    - body
+    - 4932
+    - 4932
+  label: 大莊嚴寺僧威秀等上沙門不合拜俗表
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-10
+    span:
+    - body
+    - 5473
+    - 5473
+  label: 西明寺僧道宣等上雍州牧沛王論沙門不應拜俗啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-11
+    span:
+    - body
+    - 5829
+    - 5829
+  label: 西明寺僧道宣等上榮國夫人楊氏請論沙門不合拜俗啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-12
+    span:
+    - body
+    - 6232
+    - 6232
+  label: 西明寺僧道宣等序佛教隆替事簡諸宰輔等狀
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-13
+    span:
+    - body
+    - 8461
+    - 8461
+  label: 中臺司禮太常伯隴西王博叉大夫孔志約等議
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-14
+    span:
+    - body
+    - 8681
+    - 8681
+  label: 司元議一首
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-15
+    span:
+    - body
+    - 8923
+    - 8923
+  label: 司戎議一首
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-16
+    span:
+    - body
+    - 10878
+    - 10878
+  label: 司刑太常伯劉祥道
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-17
+    span:
+    - body
+    - 11112
+    - 11112
+  label: 議沙門兼拜狀合三首
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-18
+    span:
+    - body
+    - 11121
+    - 11121
+  label: 左威衛長史崔安都錄事沈玄明等議狀
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-19
+    span:
+    - body
+    - 11967
+    - 11967
+  label: 右清道衛長史李洽等議狀
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-20
+    span:
+    - body
+    - 12216
+    - 12216
+  label: 長安縣令張松壽議狀
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-21
+    span:
+    - body
+    - 12494
+    - 12494
+  label: 中臺司禮太常伯隴西王博叉執議狀奏
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-22
+    span:
+    - body
+    - 13184
+    - 13184
+  label: 今上停沙門拜君詔
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-23
+    span:
+    - body
+    - 13467
+    - 13467
+  label: 京邑老人程士顆等上請表
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-24
+    span:
+    - body
+    - 14163
+    - 14163
+  label: 西明寺僧道宣等上榮國夫人楊氏請論拜事啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-25
+    span:
+    - body
+    - 14351
+    - 14351
+  label: 大莊嚴寺僧威秀等上請表
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-26
+    span:
+    - body
+    - 14661
+    - 14661
+  label: 玉華宮寺譯經沙門靜邁等上拜父母有損表
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-27
+    span:
+    - body
+    - 14909
+    - 14909
+  label: 襄州禪居寺僧崇拔上請父母同君上不令出家人致拜表
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-28
+    span:
+    - body
+    - 15443
+    - 15443
+  label: 沙門不應拜俗總論
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-29
+    span:
+    - body
+    - 16498
+    - 16498
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-30
+    span:
+    - body
+    - 16958
+    - 16958
+  label: 6 慈濟篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-31
+    span:
+    - body
+    - 16958
+    - 16958
+  label: 1 究竟慈悲論(沈約)(二六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-32
+    span:
+    - body
+    - 17759
+    - 17759
+  label: 2 與何胤書(周顒)(二六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-33
+    span:
+    - body
+    - 18220
+    - 18220
+  label: 3 斷殺絕宗廟犧牲詔(梁武帝)(二六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-34
+    span:
+    - body
+    - 18912
+    - 18912
+  label: 4 齊光祿顏之推誡殺訓(顏之推)(二六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-35
+    span:
+    - body
+    - 19356
+    - 19356
+  label: 5 斷酒肉文(梁武帝)(二六)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-36
+    span:
+    - body
+    - 32017
+    - 32017
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-37
+    span:
+    - body
+    - 32451
+    - 32451
+  label: 7 誡功篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-38
+    span:
+    - body
+    - 32451
+    - 32451
+  label: 1 與隱士劉遺民等書(二七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-39
+    span:
+    - body
+    - 32914
+    - 32914
+  label: 2 與蕭諮議等書(二七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-40
+    span:
+    - body
+    - 33200
+    - 33200
+  label: 3 答湘東王書(二七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-41
+    span:
+    - body
+    - 33720
+    - 33720
+  label: 4 與梁朝士書(二七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-42
+    span:
+    - body
+    - 33965
+    - 33965
+  label: 5 與瑗律師書(二七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-43
+    span:
+    - body
+    - 34369
+    - 34369
+  label: 瑗律師答
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-44
+    span:
+    - body
+    - 34604
+    - 34604
+  label: 7 隋煬帝於天台山顗禪師所受菩薩戒文(二七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-45
+    span:
+    - body
+    - 34960
+    - 34960
+  label: 8 天台智者禪師與煬帝書(二七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-46
+    span:
+    - body
+    - 34981
+    - 34981
+  label: 統略淨住子淨行法門序
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-47
+    span:
+    - body
+    - 35671
+    - 35671
+  label: 9 淨住子淨行法(二七)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-48
+    span:
+    - body
+    - 35682
+    - 35682
+  label: 1 皇覺辨德門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-49
+    span:
+    - body
+    - 36261
+    - 36261
+  label: 辨德門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-50
+    span:
+    - body
+    - 36320
+    - 36320
+  label: 2 開物歸信門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-51
+    span:
+    - body
+    - 36988
+    - 36988
+  label: 歸信門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-52
+    span:
+    - body
+    - 37040
+    - 37040
+  label: 3 滌除三業門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-53
+    span:
+    - body
+    - 37743
+    - 37743
+  label: 懺悔三業門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-54
+    span:
+    - body
+    - 37797
+    - 37797
+  label: 4 修理六根門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-55
+    span:
+    - body
+    - 38406
+    - 38406
+  label: 清淨六根門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-56
+    span:
+    - body
+    - 38460
+    - 38460
+  label: 5 生老病死門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-57
+    span:
+    - body
+    - 39053
+    - 39053
+  label: 生老病死門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-58
+    span:
+    - body
+    - 39107
+    - 39107
+  label: 6 剋責身心門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-59
+    span:
+    - body
+    - 39611
+    - 39611
+  label: 剋責心行門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-60
+    span:
+    - body
+    - 39665
+    - 39665
+  label: 7 檢覆三業門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-61
+    span:
+    - body
+    - 40084
+    - 40084
+  label: 檢校行業門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-62
+    span:
+    - body
+    - 40138
+    - 40138
+  label: 8 訶詰四大門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-63
+    span:
+    - body
+    - 40707
+    - 40707
+  label: 呵詰四大門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-64
+    span:
+    - body
+    - 40761
+    - 40761
+  label: 9 出家順善門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-65
+    span:
+    - body
+    - 41300
+    - 41300
+  label: 出家生善門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-66
+    span:
+    - body
+    - 41354
+    - 41354
+  label: 10 在家從惡門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-67
+    span:
+    - body
+    - 41817
+    - 41817
+  label: 在家男女惡門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-68
+    span:
+    - body
+    - 41872
+    - 41872
+  label: 11 沈冥地獄門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-69
+    span:
+    - body
+    - 42454
+    - 42454
+  label: 地獄門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-70
+    span:
+    - body
+    - 42518
+    - 42518
+  label: 12 出家懷道門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-71
+    span:
+    - body
+    - 42956
+    - 42956
+  label: 出家懷惡門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-72
+    span:
+    - body
+    - 43022
+    - 43022
+  label: 13 在家懷善門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-73
+    span:
+    - body
+    - 43574
+    - 43574
+  label: 在家勸善門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-74
+    span:
+    - body
+    - 43640
+    - 43640
+  label: 14 三界內苦門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-75
+    span:
+    - body
+    - 44168
+    - 44168
+  label: 三界內苦門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-76
+    span:
+    - body
+    - 44234
+    - 44234
+  label: 15 出三界外樂門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-77
+    span:
+    - body
+    - 44955
+    - 44955
+  label: 三界外樂門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-78
+    span:
+    - body
+    - 45021
+    - 45021
+  label: 16 斷絕疑惑門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-79
+    span:
+    - body
+    - 45612
+    - 45612
+  label: 斷疑惑門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-80
+    span:
+    - body
+    - 45677
+    - 45677
+  label: 17 十種慚愧門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-81
+    span:
+    - body
+    - 46321
+    - 46321
+  label: 慚愧門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-82
+    span:
+    - body
+    - 46385
+    - 46385
+  label: 18 極大慚愧門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-83
+    span:
+    - body
+    - 47064
+    - 47064
+  label: 極大慚愧門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-84
+    span:
+    - body
+    - 47130
+    - 47130
+  label: 19 善友勸獎門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-85
+    span:
+    - body
+    - 47727
+    - 47727
+  label: 善友勸獎門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-86
+    span:
+    - body
+    - 47793
+    - 47793
+  label: 20 戒法攝生門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-87
+    span:
+    - body
+    - 48340
+    - 48340
+  label: 戒門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-88
+    span:
+    - body
+    - 48403
+    - 48403
+  label: 21 自慶畢故止新門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-89
+    span:
+    - body
+    - 48974
+    - 48974
+  label: 自慶畢故不造新頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-90
+    span:
+    - body
+    - 49066
+    - 49066
+  label: 22 大忍惡對門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-91
+    span:
+    - body
+    - 49598
+    - 49598
+  label: 大忍門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-92
+    span:
+    - body
+    - 49686
+    - 49686
+  label: 23 緣境無礙門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-93
+    span:
+    - body
+    - 50269
+    - 50269
+  label: 無礙門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-94
+    span:
+    - body
+    - 50357
+    - 50357
+  label: 24 一志努力門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-95
+    span:
+    - body
+    - 50921
+    - 50921
+  label: 努力門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-96
+    span:
+    - body
+    - 51009
+    - 51009
+  label: 25 禮舍利寶塔門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-97
+    span:
+    - body
+    - 51574
+    - 51574
+  label: 禮舍利像塔門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-98
+    span:
+    - body
+    - 51665
+    - 51665
+  label: 26 敬重正法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-99
+    span:
+    - body
+    - 52189
+    - 52189
+  label: 法門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-100
+    span:
+    - body
+    - 52276
+    - 52276
+  label: 27 奉養僧田門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-101
+    span:
+    - body
+    - 52881
+    - 52881
+  label: 僧門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-102
+    span:
+    - body
+    - 52968
+    - 52968
+  label: 28 勸請僧進門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-103
+    span:
+    - body
+    - 53313
+    - 53313
+  label: 勸請門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-104
+    span:
+    - body
+    - 53401
+    - 53401
+  label: 29 隨喜萬善門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-105
+    span:
+    - body
+    - 53848
+    - 53848
+  label: 隨喜門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-106
+    span:
+    - body
+    - 53936
+    - 53936
+  label: 30 迴向佛道門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-107
+    span:
+    - body
+    - 54419
+    - 54419
+  label: 迴向門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-108
+    span:
+    - body
+    - 54506
+    - 54506
+  label: 31 發願莊嚴門
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-109
+    span:
+    - body
+    - 55097
+    - 55097
+  label: 發願門頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-110
+    span:
+    - body
+    - 55185
+    - 55185
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-111
+    span:
+    - body
+    - 55486
+    - 55486
+  label: 8 啟福篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-112
+    span:
+    - body
+    - 55486
+    - 55486
+  label: 1 （北代南晉前秦前燕後秦帝與太山朗法師書）(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-113
+    span:
+    - body
+    - 55486
+    - 55486
+  label: 北代魏天子招拔珪書
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-114
+    span:
+    - body
+    - 55556
+    - 55556
+  label: 晉天子司馬昌明書
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-115
+    span:
+    - body
+    - 55795
+    - 55795
+  label: 秦天子符堅書
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-116
+    span:
+    - body
+    - 56013
+    - 56013
+  label: 燕天子慕容垂書
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-117
+    span:
+    - body
+    - 56223
+    - 56223
+  label: 南燕天子慕容德書
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-118
+    span:
+    - body
+    - 56443
+    - 56443
+  label: 秦天子姚興書
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-119
+    span:
+    - body
+    - 56539
+    - 56539
+  label: 2 與林法師書(王洽)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-120
+    span:
+    - body
+    - 56805
+    - 56805
+  label: 3 南齊皇太子禮佛願疏(沈約)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-121
+    span:
+    - body
+    - 57210
+    - 57210
+  label: 4 捨身願疏(沈約)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-122
+    span:
+    - body
+    - 57873
+    - 57873
+  label: 5 南齊南郡王捨身疏(沈約)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-123
+    span:
+    - body
+    - 58162
+    - 58162
+  label: 6 （依諸經中行懺悔願文）(梁高祖)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-124
+    span:
+    - body
+    - 58198
+    - 58198
+  label: 7 千僧會願文(沈約)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-125
+    span:
+    - body
+    - 58518
+    - 58518
+  label: 8 四月八日度人出家願文(梁簡文)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-126
+    span:
+    - body
+    - 58951
+    - 58951
+  label: 9 八關齋制序(梁簡文)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-127
+    span:
+    - body
+    - 59244
+    - 59244
+  label: 10 為人作造寺疏(梁簡文)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-128
+    span:
+    - body
+    - 59432
+    - 59432
+  label: 11 （謝勅賚袈裟啟）(梁簡文)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-129
+    span:
+    - body
+    - 59432
+    - 59432
+  label: 謝勅賚納袈裟
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-130
+    span:
+    - body
+    - 59531
+    - 59531
+  label: 謝賚袈裟啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-131
+    span:
+    - body
+    - 59676
+    - 59676
+  label: 謝勅賚袈裟啟
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-132
+    span:
+    - body
+    - 59784
+    - 59784
+  label: 12 請為諸寺檀越疏(梁簡文)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-133
+    span:
+    - body
+    - 59998
+    - 59998
+  label: 13 設無礙福會教(蕭綸)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-134
+    span:
+    - body
+    - 60231
+    - 60231
+  label: 14 答湘東王書(梁簡文)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-135
+    span:
+    - body
+    - 60488
+    - 60488
+  label: 15 與琰法師書(梁簡文)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-136
+    span:
+    - body
+    - 60820
+    - 60820
+  label: 16 與劉智藏書(梁元帝)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-137
+    span:
+    - body
+    - 61235
+    - 61235
+  label: 17 與約法師書(沈約)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-138
+    span:
+    - body
+    - 61457
+    - 61457
+  label: 18 與印闍梨書(劉之遴)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-139
+    span:
+    - body
+    - 61612
+    - 61612
+  label: 19 與雲僧正書(王筠)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-140
+    span:
+    - body
+    - 61872
+    - 61872
+  label: 20 與長沙王別書(王筠)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-141
+    span:
+    - body
+    - 62002
+    - 62002
+  label: 21 答雲法師書(劉孝綽)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-142
+    span:
+    - body
+    - 62301
+    - 62301
+  label: 22 遼陽山寺願文(盧思道)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-143
+    span:
+    - body
+    - 62900
+    - 62900
+  label: 23 北齊武成帝以三臺宮為大興聖寺詔(魏收)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-144
+    span:
+    - body
+    - 63346
+    - 63346
+  label: 24 後周明帝修起寺詔(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-145
+    span:
+    - body
+    - 63425
+    - 63425
+  label: 25 隋文帝為太祖武元皇帝行幸四處立寺建碑詔(李德林)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-146
+    span:
+    - body
+    - 63930
+    - 63930
+  label: 26 隋高祖於相州戰場立寺詔(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-147
+    span:
+    - body
+    - 64205
+    - 64205
+  label: 27 隋煬帝行道度人天下勅(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-148
+    span:
+    - body
+    - 64465
+    - 64465
+  label: 28 唐太宗於行陣所立七寺詔(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-149
+    span:
+    - body
+    - 64810
+    - 64810
+  label: 29 唐太宗為戰亡人設齋行道詔(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-150
+    span:
+    - body
+    - 65031
+    - 65031
+  label: 30 唐太宗度僧於天下詔(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-151
+    span:
+    - body
+    - 65428
+    - 65428
+  label: 32 唐太宗斷賣佛像勅(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-152
+    span:
+    - body
+    - 65566
+    - 65566
+  label: 33 與暹律師等書(褚亮)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-153
+    span:
+    - body
+    - 65764
+    - 65764
+  label: 34 造興聖寺詔(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-154
+    span:
+    - body
+    - 65887
+    - 65887
+  label: 35 為太穆皇后追福願文(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-155
+    span:
+    - body
+    - 66044
+    - 66044
+  label: 36 大周二教鍾銘(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-156
+    span:
+    - body
+    - 66308
+    - 66308
+  label: 37 大唐興善寺鍾銘(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-157
+    span:
+    - body
+    - 66428
+    - 66428
+  label: 38 京師西明寺鍾銘(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-159
+    span:
+    - body
+    - 66643
+    - 66643
+  label: 9 悔罪篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-160
+    span:
+    - body
+    - 66652
+    - 66652
+  label: 1 謝勅為建涅槃懺啟(梁簡文)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-161
+    span:
+    - body
+    - 66752
+    - 66752
+  label: 2 六根懺文(梁簡文)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-162
+    span:
+    - body
+    - 67504
+    - 67504
+  label: 3 悔高慢文(梁簡文)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-163
+    span:
+    - body
+    - 67671
+    - 67671
+  label: 4 懺悔文(沈約)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-164
+    span:
+    - body
+    - 68321
+    - 68321
+  label: 5 群臣請隋陳武帝懺文(江總)(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-165
+    span:
+    - body
+    - 68834
+    - 68834
+  label: 6 （梁陳皇帝依經悔過文）(二八)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-166
+    span:
+    - body
+    - 68834
+    - 68834
+  label: 摩訶波若懺文
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-167
+    span:
+    - body
+    - 69166
+    - 69166
+  label: 金剛波若懺文
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-168
+    span:
+    - body
+    - 69535
+    - 69535
+  label: 勝天王般若懺文
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-169
+    span:
+    - body
+    - 70005
+    - 70005
+  label: 妙法蓮華經懺文
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-170
+    span:
+    - body
+    - 70466
+    - 70466
+  label: 金光明懺文
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-171
+    span:
+    - body
+    - 70816
+    - 70816
+  label: 大通方廣懺文
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-172
+    span:
+    - body
+    - 71168
+    - 71168
+  label: 虛空藏菩薩懺文
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-173
+    span:
+    - body
+    - 71522
+    - 71522
+  label: 方等陀羅尼齋懺文
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-174
+    span:
+    - body
+    - 71847
+    - 71847
+  label: 藥師齋懺文
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-175
+    span:
+    - body
+    - 72208
+    - 72208
+  label: 娑羅齋懺文
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-176
+    span:
+    - body
+    - 72562
+    - 72562
+  label: 無礙會捨身懺文
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-177
+    span:
+    - body
+    - 73050
+    - 73050
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-178
+    span:
+    - body
+    - 73208
+    - 73208
+  label: 10 歸統篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-179
+    span:
+    - body
+    - 73208
+    - 73208
+  label: 上
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-180
+    span:
+    - body
+    - 73219
+    - 73219
+  label: 1 淨業賦(二九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-181
+    span:
+    - body
+    - 75103
+    - 75103
+  label: 2 孝思賦(二九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-182
+    span:
+    - body
+    - 76670
+    - 76670
+  label: 3 遊七山寺賦(二九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-183
+    span:
+    - body
+    - 78405
+    - 78405
+  label: 4 宿山寺賦(二九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-184
+    span:
+    - body
+    - 78669
+    - 78669
+  label: 5 鹿苑賦(二九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-185
+    span:
+    - body
+    - 79288
+    - 79288
+  label: 6 大乘賦(二九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-186
+    span:
+    - body
+    - 79656
+    - 79656
+  label: 7 詳玄賦(二九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-187
+    span:
+    - body
+    - 80529
+    - 80529
+  label: 8 玄圃園講賦(二九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-188
+    span:
+    - body
+    - 81442
+    - 81442
+  label: 9 夢賦(真觀)(二九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-189
+    span:
+    - body
+    - 82691
+    - 82691
+  label: 10 傷愛子賦(二九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-190
+    span:
+    - body
+    - 83174
+    - 83174
+  label: 11 無為論(二九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-191
+    span:
+    - body
+    - 83742
+    - 83742
+  label: 12 （伐魔詔井書檄文）(懿法師)(二九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-192
+    span:
+    - body
+    - 83742
+    - 83742
+  label: 伐魔詔并序
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-193
+    span:
+    - body
+    - 83750
+    - 83750
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-194
+    span:
+    - body
+    - 84027
+    - 84027
+  label: 伐魔詔
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-195
+    span:
+    - body
+    - 84321
+    - 84321
+  label: 慰勞魔書
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-196
+    span:
+    - body
+    - 85137
+    - 85137
+  label: 檄魔文
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-197
+    span:
+    - body
+    - 86916
+    - 86916
+  label: 魔主報檄
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-198
+    span:
+    - body
+    - 88120
+    - 88120
+  label: 破魔露布文
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-199
+    span:
+    - body
+    - 90137
+    - 90137
+  label: 平魔赦文
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6r0138_CBETA_025-mulu-200
+    span:
+    - body
+    - 90925
+    - 90925
+  label: 13 平心露布文(二九)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-juan-start
+    span:
+    - body
+    - 0
+    - 12669
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 下
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: 14 四月八日讚佛詩(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-3
+    span:
+    - body
+    - 188
+    - 188
+  label: 15 （晉沙門支遁詠懷大德禪思山居詩）(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-4
+    span:
+    - body
+    - 188
+    - 188
+  label: 詠八日詩三首
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-5
+    span:
+    - body
+    - 394
+    - 394
+  label: 五月長齋詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-6
+    span:
+    - body
+    - 599
+    - 599
+  label: 八關齋詩序
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-7
+    span:
+    - body
+    - 723
+    - 723
+  label: 八關齋詩三首
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-8
+    span:
+    - body
+    - 1029
+    - 1029
+  label: 詠懷詩五首
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-9
+    span:
+    - body
+    - 1584
+    - 1584
+  label: 述懷詩二首
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-10
+    span:
+    - body
+    - 1739
+    - 1739
+  label: 詠大德詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-11
+    span:
+    - body
+    - 1843
+    - 1843
+  label: 詠禪思道人
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-12
+    span:
+    - body
+    - 2054
+    - 2054
+  label: 詠山居
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-13
+    span:
+    - body
+    - 2147
+    - 2147
+  label: 16 念佛三昧詩集序(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-14
+    span:
+    - body
+    - 2580
+    - 2580
+  label: 17 念佛三昧四言(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-15
+    span:
+    - body
+    - 2725
+    - 2725
+  label: 薩陀波倫讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-16
+    span:
+    - body
+    - 2762
+    - 2762
+  label: 薩陀波倫入山求法讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-17
+    span:
+    - body
+    - 2803
+    - 2803
+  label: 薩陀波倫始悟欲供養大師讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-18
+    span:
+    - body
+    - 2847
+    - 2847
+  label: 曇無竭菩薩讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-19
+    span:
+    - body
+    - 2884
+    - 2884
+  label: 諸佛讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-20
+    span:
+    - body
+    - 2919
+    - 2919
+  label: 18 法樂辭十二章(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-21
+    span:
+    - body
+    - 3457
+    - 3457
+  label: 栖玄寺聽講畢遊邸園共七韻應司徒教
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-22
+    span:
+    - body
+    - 3546
+    - 3546
+  label: 19 述三教詩(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-23
+    span:
+    - body
+    - 3703
+    - 3703
+  label: 20 梁昭明太子開善寺法會(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-24
+    span:
+    - body
+    - 3853
+    - 3853
+  label: 21 簡文望同泰寺浮圖(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-25
+    span:
+    - body
+    - 3963
+    - 3963
+  label: 王訓奉和
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-26
+    span:
+    - body
+    - 4047
+    - 4047
+  label: 王臺卿奉和
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-27
+    span:
+    - body
+    - 4152
+    - 4152
+  label: 庾信奉和
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-28
+    span:
+    - body
+    - 4256
+    - 4256
+  label: 簡文夜望浮圖上相輪
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-29
+    span:
+    - body
+    - 4285
+    - 4285
+  label: 22 簡文賦詠五陰識支(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-30
+    span:
+    - body
+    - 4333
+    - 4333
+  label: 23 劉綽賦詠百論捨罪福(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-31
+    span:
+    - body
+    - 4382
+    - 4382
+  label: 24 簡文蒙華林戒(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-32
+    span:
+    - body
+    - 4578
+    - 4578
+  label: 25 簡文蒙預懺直疏并和五首(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-33
+    span:
+    - body
+    - 4689
+    - 4689
+  label: 梁武帝和
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-34
+    span:
+    - body
+    - 4705
+    - 4705
+  label: 王筠應詔并序
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-35
+    span:
+    - body
+    - 4850
+    - 4850
+  label: 26 昭明太子講席將訖賦三十韻(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-36
+    span:
+    - body
+    - 5165
+    - 5165
+  label: 27 簡文旦出興業寺講(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-37
+    span:
+    - body
+    - 5243
+    - 5243
+  label: 28 梁元帝和劉尚書侍五明集(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-38
+    span:
+    - body
+    - 5394
+    - 5394
+  label: 29 昭明太子鍾山解講(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-39
+    span:
+    - body
+    - 5515
+    - 5515
+  label: 蕭子顯奉和
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-40
+    span:
+    - body
+    - 5630
+    - 5630
+  label: 劉孝綽和
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-41
+    span:
+    - body
+    - 5744
+    - 5744
+  label: 劉孝儀奉和
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-42
+    span:
+    - body
+    - 5859
+    - 5859
+  label: 30 八關齋夜賦四城門更作四首(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-43
+    span:
+    - body
+    - 5859
+    - 5859
+  label: 庾集五
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-44
+    span:
+    - body
+    - 5871
+    - 5871
+  label: 第一賦韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-45
+    span:
+    - body
+    - 5871
+    - 5871
+  label: 東城門病
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-46
+    span:
+    - body
+    - 5926
+    - 5926
+  label: 南城門老
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-47
+    span:
+    - body
+    - 5974
+    - 5974
+  label: 西城門死
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-48
+    span:
+    - body
+    - 6023
+    - 6023
+  label: 北城門沙門
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-49
+    span:
+    - body
+    - 6074
+    - 6074
+  label: 第二賦韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-50
+    span:
+    - body
+    - 6074
+    - 6074
+  label: 東城門病
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-51
+    span:
+    - body
+    - 6128
+    - 6128
+  label: 南城門老
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-52
+    span:
+    - body
+    - 6176
+    - 6176
+  label: 西城門死
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-53
+    span:
+    - body
+    - 6225
+    - 6225
+  label: 北城門沙門
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-54
+    span:
+    - body
+    - 6275
+    - 6275
+  label: 第三賦韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-55
+    span:
+    - body
+    - 6275
+    - 6275
+  label: 東城門病
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-56
+    span:
+    - body
+    - 6327
+    - 6327
+  label: 南城門老
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-57
+    span:
+    - body
+    - 6377
+    - 6377
+  label: 西城門死
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-58
+    span:
+    - body
+    - 6426
+    - 6426
+  label: 北城門沙門
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-59
+    span:
+    - body
+    - 6474
+    - 6474
+  label: 第四賦韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-60
+    span:
+    - body
+    - 6474
+    - 6474
+  label: 東城門病
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-61
+    span:
+    - body
+    - 6524
+    - 6524
+  label: 南城門老
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-62
+    span:
+    - body
+    - 6574
+    - 6574
+  label: 西城門死
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-63
+    span:
+    - body
+    - 6622
+    - 6622
+  label: 北城門沙門
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-64
+    span:
+    - body
+    - 6673
+    - 6673
+  label: 正月八日然燈
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-65
+    span:
+    - body
+    - 6721
+    - 6721
+  label: 31 簡文遊光宅(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-66
+    span:
+    - body
+    - 6778
+    - 6778
+  label: 32 梁簡文帝被幽述志詩(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-67
+    span:
+    - body
+    - 6778
+    - 6778
+  label: 梁簡文自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-68
+    span:
+    - body
+    - 6830
+    - 6830
+  label: 又為連珠三首
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-69
+    span:
+    - body
+    - 6936
+    - 6936
+  label: 又為詩曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-70
+    span:
+    - body
+    - 6999
+    - 6999
+  label: 33 宋謝靈運臨終詩(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-71
+    span:
+    - body
+    - 7076
+    - 7076
+  label: 34 沈隱侯臨終表(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-72
+    span:
+    - body
+    - 7170
+    - 7170
+  label: 35 陳沙門釋智愷臨終詩(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-73
+    span:
+    - body
+    - 7229
+    - 7229
+  label: 37 （陳尚書令江總遊攝山寺詩）(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-74
+    span:
+    - body
+    - 7229
+    - 7229
+  label: 陳江總入攝山栖霞寺一首
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-75
+    span:
+    - body
+    - 7505
+    - 7505
+  label: 至德二年十一月十二日界德施山齋三宿決定罪福懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-76
+    span:
+    - body
+    - 7608
+    - 7608
+  label: 五言攝山栖霞寺山房夜坐簡徐祭酒周尚書并同遊群彥江令公
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-77
+    span:
+    - body
+    - 7694
+    - 7694
+  label: 徐孝克仰同令君攝山栖霞寺山房夜坐六韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-78
+    span:
+    - body
+    - 7772
+    - 7772
+  label: 陳主同江僕射遊攝山棲霞寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-79
+    span:
+    - body
+    - 7846
+    - 7846
+  label: 遊攝山棲霞寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-80
+    span:
+    - body
+    - 8023
+    - 8023
+  label: 38 （陳江令遊武屈山寺詩）(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-81
+    span:
+    - body
+    - 8023
+    - 8023
+  label: 靜臥栖霞寺房望徐祭酒
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-82
+    span:
+    - body
+    - 8096
+    - 8096
+  label: 徐祭酒孝克仰和令君
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-83
+    span:
+    - body
+    - 8277
+    - 8277
+  label: 庚寅年二月十二日遊虎丘山精舍
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-84
+    span:
+    - body
+    - 8540
+    - 8540
+  label: 陳江令往虎窟山寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-85
+    span:
+    - body
+    - 8638
+    - 8638
+  label: 治中王冏奉和
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-86
+    span:
+    - body
+    - 8734
+    - 8734
+  label: 記室參軍陸
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-87
+    span:
+    - body
+    - 8832
+    - 8832
+  label: 前臣刑獄參軍孔燾
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-88
+    span:
+    - body
+    - 8930
+    - 8930
+  label: 州民前史刑獄參軍王臺卿
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-89
+    span:
+    - body
+    - 9031
+    - 9031
+  label: 西曹書佐鮑至從駕虎窟山寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-90
+    span:
+    - body
+    - 9133
+    - 9133
+  label: 36 （陳何處士遊山寺并雜詩）(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-91
+    span:
+    - body
+    - 9133
+    - 9133
+  label: 陳從事何處士春日從將軍遊山寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-92
+    span:
+    - body
+    - 9187
+    - 9187
+  label: 別才法師於湘還郢北三首
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-93
+    span:
+    - body
+    - 9238
+    - 9238
+  label: 敬詶解法師所贈
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-94
+    span:
+    - body
+    - 9285
+    - 9285
+  label: 通士人篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-95
+    span:
+    - body
+    - 9329
+    - 9329
+  label: 陳沈炯從遊天中天寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-96
+    span:
+    - body
+    - 9380
+    - 9380
+  label: 同庾中庶肩吾周處士弘讓遊明慶寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-97
+    span:
+    - body
+    - 9435
+    - 9435
+  label: 39 從駕經大慈照寺詩序(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-98
+    span:
+    - body
+    - 9906
+    - 9906
+  label: 40 五苦詩(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-99
+    span:
+    - body
+    - 9915
+    - 9915
+  label: 生苦
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-100
+    span:
+    - body
+    - 9957
+    - 9957
+  label: 老苦
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-101
+    span:
+    - body
+    - 9999
+    - 9999
+  label: 病苦
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-102
+    span:
+    - body
+    - 10041
+    - 10041
+  label: 死苦
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-103
+    span:
+    - body
+    - 10083
+    - 10083
+  label: 愛離
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-104
+    span:
+    - body
+    - 10125
+    - 10125
+  label: 五盛陰附
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-105
+    span:
+    - body
+    - 10189
+    - 10189
+  label: 41 遊明慶寺詩(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-106
+    span:
+    - body
+    - 10294
+    - 10294
+  label: 42 （陳張君祖雜詩）(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-107
+    span:
+    - body
+    - 10294
+    - 10294
+  label: 詠懷詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-108
+    span:
+    - body
+    - 10570
+    - 10570
+  label: 贈沙門竺法頵
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-109
+    span:
+    - body
+    - 10843
+    - 10843
+  label: 道樹經讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-110
+    span:
+    - body
+    - 10897
+    - 10897
+  label: 三昧經讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-111
+    span:
+    - body
+    - 10951
+    - 10951
+  label: 詩序
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-112
+    span:
+    - body
+    - 11161
+    - 11161
+  label: 張君祖
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-113
+    span:
+    - body
+    - 11284
+    - 11284
+  label: 庾僧淵答
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-114
+    span:
+    - body
+    - 11428
+    - 11428
+  label: 43 煬帝謁方山靈巖寺(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-115
+    span:
+    - body
+    - 11488
+    - 11488
+  label: 奉和方山靈巖寺應教
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-116
+    span:
+    - body
+    - 11550
+    - 11550
+  label: 44 正月十五日於通衢建燈夜升南樓(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-117
+    span:
+    - body
+    - 11609
+    - 11609
+  label: 奉和通衢建燈應教
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-118
+    span:
+    - body
+    - 11660
+    - 11660
+  label: 捨舟登陸示慧日道場玉清玄壇德眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-119
+    span:
+    - body
+    - 11759
+    - 11759
+  label: 45 隋著作王胄臥疾閩越述淨名意(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-120
+    span:
+    - body
+    - 11929
+    - 11929
+  label: 46 薛道衡展敬上鳳林寺(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-121
+    span:
+    - body
+    - 12018
+    - 12018
+  label: 47 梁開善寺藏法師奉和武帝三教詩(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-122
+    span:
+    - body
+    - 12184
+    - 12184
+  label: 48 太宗文皇帝謁并州興國寺二首(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-123
+    span:
+    - body
+    - 12257
+    - 12257
+  label: 文帝詠佛殿前幡
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-124
+    span:
+    - body
+    - 12306
+    - 12306
+  label: 49 常州弘善寺宣法師三首 (三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-125
+    span:
+    - body
+    - 12330
+    - 12330
+  label: 竺佛圖澄
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-126
+    span:
+    - body
+    - 12384
+    - 12384
+  label: 釋僧肇
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-127
+    span:
+    - body
+    - 12437
+    - 12437
+  label: 50 秋日遊東山寺尋殊曇二法師(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-128
+    span:
+    - body
+    - 12569
+    - 12569
+  label: 51 帝謁大慈恩寺一首并和(三〇)
+  type: mulu
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR6r0138_CBETA_030-mulu-129
+    span:
+    - body
+    - 12622
+    - 12622
+  label: 大慈恩寺沙門和
+  type: mulu
+  level: 1
+hash: sha256:b0f6db88ca90458a3362b88cd1ef8a03670834dab8bfc6c1037a2cca36a1a98f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
