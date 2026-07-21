@@ -20,7 +20,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6r0138_000.yaml, hash: 'sha256:1506b6cda9eaee1daf446643649b45f44180c01e70ecb5316f74a4d153b4597a'}
+  - {seq: 0, filename: KR6r0138_000.yaml, hash: 'sha256:dc9143c4bfd90b560a132ba2011ae0b1fcb335a87d40f0a2458b5a6fefb19be3'}
   - {seq: 2, filename: KR6r0138_002.yaml, hash: 'sha256:9f707517ecc1e6d070f2112e73bbc6d8e9f069a82e44d9a4b3938a751494d1c9'}
   - {seq: 3, filename: KR6r0138_003.yaml, hash: 'sha256:5989734c03177eb6f4d1caa74966ffa6ef20f3f7829ec9e0f948a336d7d82410'}
   - {seq: 4, filename: KR6r0138_004.yaml, hash: 'sha256:55d33531a579cfbd59b1766c46f4943258dfd65cdd9d017b7f5558e2ef5598b1'}
@@ -43,7 +43,7 @@ assets:
   - {seq: 25, filename: KR6r0138_025.yaml, hash: 'sha256:7dd346dcb6b5b80e8fab2cc35505455b7686fd4bacda6726cc827e5ab3d31852'}
   - {seq: 30, filename: KR6r0138_030.yaml, hash: 'sha256:6d8600efa20a8c02b457b3620511c6c158a77e8077cbeba7a6f92760faa7c1c5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0138_000.markers.yaml, hash: 'sha256:05f98b28dc1b37b779fe0a732d86f51e0f6403213095d67f5af9fa3dffa7f410'}
+  - {seq: 0, role: markers, filename: assets/KR6r0138_000.markers.yaml, hash: 'sha256:e875afa850990def2de54a4ea7541315a3330362314712b377ffcc4b1598fba1'}
   - {seq: 2, role: markers, filename: assets/KR6r0138_002.markers.yaml, hash: 'sha256:aa0495735e5c50d7d6be90d8115ae1e961cb9c782d214bf5644a25946b4ae5d6'}
   - {seq: 3, role: markers, filename: assets/KR6r0138_003.markers.yaml, hash: 'sha256:f45a33ebb509b86fa804a135693136bb789050aa35123f7293e6efcafdf89556'}
   - {seq: 4, role: markers, filename: assets/KR6r0138_004.markers.yaml, hash: 'sha256:1307a5eed5b303892d49e2c7849e81c654a9ca44acfcdb537e47f32991dc9f99'}
@@ -70,7 +70,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 釋道宣序一
@@ -80,7 +80,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-2
     span:
-    - front
+    - body
     - 830
     - 830
   label: 序
@@ -90,7 +90,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-3
     span:
-    - front
+    - body
     - 1458
     - 1458
   label: 歸正篇目錄
@@ -100,7 +100,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-4
     span:
-    - front
+    - body
     - 1467
     - 1467
   label: 1 歸正篇
@@ -110,7 +110,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-5
     span:
-    - front
+    - body
     - 1467
     - 1467
   label: 之一
@@ -120,7 +120,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-6
     span:
-    - front
+    - body
     - 1478
     - 1478
   label: 1 商太宰問孔子聖人(一)
@@ -130,7 +130,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-7
     span:
-    - front
+    - body
     - 1662
     - 1662
   label: 2 子書中佛為老師(一)
@@ -140,7 +140,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-8
     span:
-    - front
+    - body
     - 1849
     - 1849
   label: 3 漢顯宗開佛化法本傳(一)
@@ -150,7 +150,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-9
     span:
-    - front
+    - body
     - 3026
     - 3026
   label: 4 後漢書郊祀志(一)
@@ -160,7 +160,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-10
     span:
-    - front
+    - body
     - 3312
     - 3312
   label: 5 吳主孫權論敘佛道三宗(一)
@@ -170,7 +170,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-11
     span:
-    - front
+    - body
     - 3862
     - 3862
   label: 6 宋文帝集朝宰論佛教(一)
@@ -180,7 +180,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-12
     span:
-    - front
+    - body
     - 4484
     - 4484
   label: 7 元魏孝明召佛道門人論前後(一)
@@ -8266,7 +8266,7 @@ table_of_contents:
   label: 大慈恩寺沙門和
   type: mulu
   level: 1
-hash: sha256:072c90372a96322f8e1724ab3a1c7c4b2f44dfc4fc9f300e842ecbe31f05b5f7
+hash: sha256:92602cdf641fd4298a821f6fa426d37ed9d306e4c101dd054cb8195846fa70e8
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

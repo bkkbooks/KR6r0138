@@ -22,7 +22,7 @@ metadata:
     short: CBETA
 assets:
   parts:
-  - {seq: 0, filename: KR6r0138_000-CBETA.yaml, hash: 'sha256:cde187054096c36efe7b81c4f0eb186be213c5718586f20641eb3df81206109e'}
+  - {seq: 0, filename: KR6r0138_000-CBETA.yaml, hash: 'sha256:e16f08355d977ccbec50e56abda133ee865b870ff7f450423d086dd9465e9a05'}
   - {seq: 2, filename: KR6r0138_002-CBETA.yaml, hash: 'sha256:41898bd38cfc7122e665adce4e74f8bfe94d1ef4c752112f91b0b0b11f2cdfe9'}
   - {seq: 3, filename: KR6r0138_003-CBETA.yaml, hash: 'sha256:c610f0839c31ee283dca79f9d550c1616d218ec45896ae18e0c5e8480ede9fe6'}
   - {seq: 4, filename: KR6r0138_004-CBETA.yaml, hash: 'sha256:b9a8a2d3b8445a06c7dc4a50974554d9b6e94acc46307dcbfdc14b594c76530e'}
@@ -45,7 +45,7 @@ assets:
   - {seq: 25, filename: KR6r0138_025-CBETA.yaml, hash: 'sha256:a5c81b3c3dd0e291459626263735b8866e4e8c3264eb6223e2a0e01d79b9d48a'}
   - {seq: 30, filename: KR6r0138_030-CBETA.yaml, hash: 'sha256:ee79a458f18704a3705215a27b6edbb930484d84a00a1837f23c0f21242d1920'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0138_000-CBETA.markers.yaml, hash: 'sha256:0608bb9f2ca207ec8d04f1818578119f7b8b09d43f014898c065cfecaa290fcb'}
+  - {seq: 0, role: markers, filename: assets/KR6r0138_000-CBETA.markers.yaml, hash: 'sha256:3db8891f3de2306b4b6442eb4b7dee5447da2113088c85f9b6a500da2d7e0360'}
   - {seq: 2, role: markers, filename: assets/KR6r0138_002-CBETA.markers.yaml, hash: 'sha256:eae5ab0e9b6bbaec968e0de27cbd0eb0c0f65e5ddb845bae291e26bccb197b71'}
   - {seq: 3, role: markers, filename: assets/KR6r0138_003-CBETA.markers.yaml, hash: 'sha256:02b77ae880b0f972999764928a07172d637e86c2fbaa26b7914e8c12fe26d9ad'}
   - {seq: 4, role: markers, filename: assets/KR6r0138_004-CBETA.markers.yaml, hash: 'sha256:b320430ad8cf834be41ec4c1d43d8c6cffae610fe446f0e0406c442d4a596708'}
@@ -72,7 +72,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 釋道宣序一
@@ -82,7 +82,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-2
     span:
-    - front
+    - body
     - 830
     - 830
   label: 序
@@ -92,7 +92,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-3
     span:
-    - front
+    - body
     - 1458
     - 1458
   label: 歸正篇目錄
@@ -102,7 +102,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-4
     span:
-    - front
+    - body
     - 1467
     - 1467
   label: 1 歸正篇
@@ -112,7 +112,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-5
     span:
-    - front
+    - body
     - 1467
     - 1467
   label: 之一
@@ -122,7 +122,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-6
     span:
-    - front
+    - body
     - 1478
     - 1478
   label: 1 商太宰問孔子聖人(一)
@@ -132,7 +132,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-7
     span:
-    - front
+    - body
     - 1662
     - 1662
   label: 2 子書中佛為老師(一)
@@ -142,7 +142,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-8
     span:
-    - front
+    - body
     - 1849
     - 1849
   label: 3 漢顯宗開佛化法本傳(一)
@@ -152,7 +152,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-9
     span:
-    - front
+    - body
     - 3026
     - 3026
   label: 4 後漢書郊祀志(一)
@@ -162,7 +162,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-10
     span:
-    - front
+    - body
     - 3312
     - 3312
   label: 5 吳主孫權論敘佛道三宗(一)
@@ -172,7 +172,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-11
     span:
-    - front
+    - body
     - 3862
     - 3862
   label: 6 宋文帝集朝宰論佛教(一)
@@ -182,7 +182,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0138_CBETA_000-mulu-12
     span:
-    - front
+    - body
     - 4484
     - 4484
   label: 7 元魏孝明召佛道門人論前後(一)
@@ -8268,4 +8268,4 @@ table_of_contents:
   label: 大慈恩寺沙門和
   type: mulu
   level: 1
-hash: sha256:a90a865abb5d5f71001a9d1a8648abe4f736b0106322c22e57cd3f7770afd68a
+hash: sha256:613a96687a130c35ee44896a88bc8a54d59478411e312939dbbad9f49db82d61
